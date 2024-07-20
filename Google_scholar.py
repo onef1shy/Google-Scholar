@@ -24,6 +24,7 @@ class Gather:
         self.src = []
         self.name = ""
         self.file = None
+        self.sum = 0
 
     def JumpInfo(self):
         WebDriverWait(self.driver, 3).until(EC.presence_of_element_located(
@@ -52,6 +53,7 @@ class Gather:
                     self.page_no = 100
                 self.file.write(f"{self.Passage_name[i]}:"
                                 f"{self.Cited_by[i]}\n")
+                self.sum = 0
                 self.collectInfo(id=i)
 
     def collectInfo(self, id):
@@ -76,13 +78,12 @@ class Gather:
                     plit_index = aut_name.find(' - ')
                     authors = aut_name[:plit_index].strip()
                     publication_info = aut_name[plit_index + 3:].strip()
-
-                self.file.write('{\n')
+                self.sum += 1
+                self.file.write(f'  {self.sum}:\n')
                 self.file.write(f"\tCited_By_Passage: {page_name.text}\n"
                                 f"\tCited_By_Author: {authors}\n"
                                 f"\tCited_By_Journal: {publication_info}\n"
                                 f"\tPassage_Src: {page_src}\n")
-                self.file.write('}\n')
 
     def get_html(self, url):
         if self.driver is None:
