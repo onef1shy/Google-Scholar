@@ -1,14 +1,25 @@
+import math
+import time
+import random
+import requests_html
+import random
+import time
+import json
 from io import TextIOWrapper
+from jupyterlab_server import translator
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
-import math
-import time
-import random
-import requests_html
+from selenium.webdriver import ActionChains
+from selenium.webdriver.common.keys import Keys
+from tencentcloud.common import credential
+from tencentcloud.common.profile.client_profile import ClientProfile
+from tencentcloud.common.profile.http_profile import HttpProfile
+from tencentcloud.common.exception.tencent_cloud_sdk_exception import TencentCloudSDKException
+from tencentcloud.asr.v20190614 import asr_client, models
 
 
 class Gather:
@@ -25,6 +36,157 @@ class Gather:
         self.name = ""
         self.file = None
         self.sum = 0
+        self.SecretId = "腾讯云账号的SecretId"
+        self.SecretKey = "腾讯云账号的SecretKey"
+
+    def get_result(self, id_d):
+        try:
+            cred = credential.Credential(self.SecretId, self.SecretKey)
+            httpProfile = HttpProfile()
+            httpProfile.endpoint = "asr.tencentcloudapi.com"
+
+            clientProfile = ClientProfile()
+            clientProfile.httpProfile = httpProfile
+            client = asr_client.AsrClient(cred, "", clientProfile)
+
+            req = models.DescribeTaskStatusRequest()
+            params = {
+                "TaskId": id_d
+            }
+            req.from_json_string(json.dumps(params))
+
+            resp = client.DescribeTaskStatus(req)
+            # print(resp.to_json_string())
+            if json.loads(resp.to_json_string())["Data"]["StatusStr"] == "waiting" or json.loads(resp.to_json_string())["Data"]["StatusStr"] == "doing":
+                return False
+            try:
+                json.loads(resp.to_json_string())[
+                    "Data"]["Result"].split("]")[-1][2:]
+            except:
+                # print(json.loads(resp.to_json_string()))
+                return False
+            return json.loads(resp.to_json_string())["Data"]["Result"].split("]")[-1][2:-1]
+
+        except TencentCloudSDKException as err:
+            print(err)
+            return False
+
+    # 上传音频链接msg_url
+
+    def upload(self, msg_url):
+        try:
+            cred = credential.Credential(self.SecretId, self.SecretKey)
+            httpProfile = HttpProfile()
+            httpProfile.endpoint = "asr.tencentcloudapi.com"
+
+            clientProfile = ClientProfile()
+            clientProfile.httpProfile = httpProfile
+            client = asr_client.AsrClient(cred, "", clientProfile)
+
+            req = models.CreateRecTaskRequest()
+            params = {
+                "EngineModelType": "16k_en",
+                "ChannelNum": 1,
+                "ResTextFormat": 0,
+                "SourceType": 0,
+                "Url": msg_url
+            }
+            req.from_json_string(json.dumps(params))
+
+            resp = client.CreateRecTask(req)
+            # print(resp)
+            ID = json.loads(resp.to_json_string())["Data"]["TaskId"]
+            # print(ID)
+            count = 0
+            while True:
+                st = self.get_result(int(ID))
+                if st != False:
+                    break
+                time.sleep(0.7)
+                count += 1
+                if count > 120:
+                    return
+            print(st)
+            return st
+        except TencentCloudSDKException as err:
+            print(err)
+
+    # 关键点，上面两函数直接套着用就行了，不用管，这里是重点
+
+    def pass_recaptha(self):
+        # 点击验证
+        # 等待加载上验证框，验证框iframe被套在一个form中
+        WebDriverWait(self.driver, 15, 0.5).until(
+            EC.visibility_of_element_located((By.XPATH,
+                                              '//*[@id="form-submit"]/div[2]/div/div/div/iframe')))
+        # 进入验证框所在iframe
+        self.driver.switch_to.frame(self.driver.find_element(By.XPATH,
+                                                             '//*[@id="form-submit"]/div[2]/div/div/div/iframe'))
+        print(translator.trans("加载验证中"))
+        # 等待勾选框可点击再点击
+        WebDriverWait(self.driver, 15, 0.5).until(EC.element_to_be_clickable(
+            (By.CSS_SELECTOR, "#recaptcha-anchor"))).click()
+        # 随机2~3秒避免加载不出来
+        time.sleep(random.uniform(2, 3))
+        print(1)
+        try:
+            # 回到默认页面
+            self.driver.switch_to.default_content()
+            # 等待点击勾选框后的弹窗界面iframe有没有加载出来
+            WebDriverWait(self.driver, 15, 0.5).until(
+                EC.visibility_of_element_located((By.XPATH, '/html/body/div[10]/div[4]/iframe')))
+            # 进入弹窗界面的iframe
+            self.driver.switch_to.frame(self.driver.find_element(
+                By.XPATH, '/html/body/div[10]/div[4]/iframe'))
+            print(2)
+            # 等待语音按钮是否加载出来，注意，这里在shadow-root里面，不可以直接用css选择器或xpath路径点击
+            WebDriverWait(self.driver, 30, 0.5).until(
+                EC.visibility_of_element_located((By.XPATH, '//*[@id="recaptcha-audio-button"]')))
+            print(3)
+            # 选中语音按钮
+            self.driver.find_element(
+                By.XPATH, '//*[@id="recaptcha-audio-button"]')
+            # 初始化键盘事件
+            Ac = ActionChains(self.driver)
+            # tab按键选中
+            Ac.send_keys(Keys.TAB).perform()
+            # enter按键点击
+            Ac.send_keys(Keys.ENTER).perform()
+            print(translator.trans("点击了语音按钮"))
+            # 等待页面跳转出现下载按钮，跳转后会出现语音下载按钮，需要捕获它的href值，它就是音频链接msg_url
+            WebDriverWait(self.driver, 30, 0.5).until(
+                EC.visibility_of_element_located((By.XPATH, '/html/body/div/div/div[7]/a')))
+            msg_url = self.driver.find_element(
+                # 获取链接
+                By.XPATH, '/html/body/div/div/div[7]/a').get_attribute("href")
+            print(4)
+            result1 = self.upload(msg_url)  # 上传链接返回结果
+            time.sleep(1)
+            print(5)
+            print(translator.trans("识别结果为："))
+            print(result1)
+            # 等待加载填写框
+            WebDriverWait(self.driver, 15, 0.5).until(
+                EC.visibility_of_element_located((By.XPATH, '//*[@id="audio-response"]')))
+            # 选中填写框
+            self.driver.find_element(
+                By.XPATH, '//*[@id="audio-response"]').send_keys(result1)
+            print(6)
+            # 随机时长，避免判断为机器人
+            time.sleep(random.uniform(1.5, 3))
+            # 等待加载verify验证按钮
+            WebDriverWait(self.driver, 15, 0.5).until(
+                EC.element_to_be_clickable((By.XPATH, '//*[@id="recaptcha-verify-button"]')))
+            # 选中点击verify按钮
+            self.driver.find_element(
+                By.XPATH, '//*[@id="recaptcha-verify-button"]').click()
+            print(translator.trans("语音验证通过"))
+        except Exception as e:
+            print(e)
+        print(7)
+        # 回到初始页面，进行下一步操作
+        self.driver.switch_to.default_content()
+        print(8)
 
     def JumpInfo(self):
         WebDriverWait(self.driver, 3).until(EC.presence_of_element_located(
