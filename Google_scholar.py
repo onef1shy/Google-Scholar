@@ -6,15 +6,12 @@ import random
 import time
 import json
 from io import TextIOWrapper
-from jupyterlab_server import translator
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver import ActionChains
-from selenium.webdriver.common.keys import Keys
 from tencentcloud.common import credential
 from tencentcloud.common.profile.client_profile import ClientProfile
 from tencentcloud.common.profile.http_profile import HttpProfile
@@ -176,7 +173,7 @@ class Gather:
             # 选中点击verify按钮
             self.driver.find_element(
                 By.XPATH, '//*[@id="recaptcha-verify-button"]').click()
-            print(translator.trans("语音验证通过"))
+            print("语音验证通过")
         except Exception as e:
             print(e)
         print(7)
