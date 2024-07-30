@@ -36,8 +36,8 @@ class Gather:
         self.name = ""
         self.file = None
         self.sum = 0
-        self.SecretId = "腾讯云账号的SecretId"
-        self.SecretKey = "腾讯云账号的SecretKey"
+        self.SecretId = "AKIDDkM0tZ2QjpiWH7fo1gXDhz63xSQVQKqF"
+        self.SecretKey = "qfTp4a7zqUokgKsATntlYSOGzyzXw88t"
 
     def get_result(self, id_d):
         try:
@@ -118,11 +118,11 @@ class Gather:
         # 等待加载上验证框，验证框iframe被套在一个form中
         WebDriverWait(self.driver, 15, 0.5).until(
             EC.visibility_of_element_located((By.XPATH,
-                                              '//*[@id="form-submit"]/div[2]/div/div/div/iframe')))
+                                              '//*[@id="gs_captcha_c"]/div/div/iframe')))
         # 进入验证框所在iframe
         self.driver.switch_to.frame(self.driver.find_element(By.XPATH,
-                                                             '//*[@id="form-submit"]/div[2]/div/div/div/iframe'))
-        print(translator.trans("加载验证中"))
+                                                             '//*[@id="gs_captcha_c"]/div/div/iframe'))
+        print("加载验证中")
         # 等待勾选框可点击再点击
         WebDriverWait(self.driver, 15, 0.5).until(EC.element_to_be_clickable(
             (By.CSS_SELECTOR, "#recaptcha-anchor"))).click()
@@ -134,36 +134,32 @@ class Gather:
             self.driver.switch_to.default_content()
             # 等待点击勾选框后的弹窗界面iframe有没有加载出来
             WebDriverWait(self.driver, 15, 0.5).until(
-                EC.visibility_of_element_located((By.XPATH, '/html/body/div[10]/div[4]/iframe')))
+                EC.visibility_of_element_located((By.XPATH, '/html/body/div[2]/div[4]/iframe')))
             # 进入弹窗界面的iframe
             self.driver.switch_to.frame(self.driver.find_element(
-                By.XPATH, '/html/body/div[10]/div[4]/iframe'))
+                By.XPATH, '/html/body/div[2]/div[4]/iframe'))
             print(2)
             # 等待语音按钮是否加载出来，注意，这里在shadow-root里面，不可以直接用css选择器或xpath路径点击
             WebDriverWait(self.driver, 30, 0.5).until(
                 EC.visibility_of_element_located((By.XPATH, '//*[@id="recaptcha-audio-button"]')))
             print(3)
             # 选中语音按钮
-            self.driver.find_element(
+            button = self.driver.find_element(
                 By.XPATH, '//*[@id="recaptcha-audio-button"]')
+            button.click()
             # 初始化键盘事件
-            Ac = ActionChains(self.driver)
-            # tab按键选中
-            Ac.send_keys(Keys.TAB).perform()
-            # enter按键点击
-            Ac.send_keys(Keys.ENTER).perform()
-            print(translator.trans("点击了语音按钮"))
+            print("点击了语音按钮")
             # 等待页面跳转出现下载按钮，跳转后会出现语音下载按钮，需要捕获它的href值，它就是音频链接msg_url
             WebDriverWait(self.driver, 30, 0.5).until(
-                EC.visibility_of_element_located((By.XPATH, '/html/body/div/div/div[7]/a')))
+                EC.visibility_of_element_located((By.XPATH, '//*[@id="rc-audio"]/div[7]/a')))
             msg_url = self.driver.find_element(
                 # 获取链接
-                By.XPATH, '/html/body/div/div/div[7]/a').get_attribute("href")
+                By.XPATH, '//*[@id="rc-audio"]/div[7]/a').get_attribute("href")
             print(4)
             result1 = self.upload(msg_url)  # 上传链接返回结果
             time.sleep(1)
             print(5)
-            print(translator.trans("识别结果为："))
+            print("识别结果为：")
             print(result1)
             # 等待加载填写框
             WebDriverWait(self.driver, 15, 0.5).until(
@@ -270,7 +266,7 @@ class Gather:
                     return self.get_html(url)
 
             print("... it's CAPTCHA time!\a ...")
-            time.sleep(5)
+            self.pass_recaptha()
 
     def main(self):
         self.JumpInfo()
