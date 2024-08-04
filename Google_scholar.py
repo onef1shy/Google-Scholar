@@ -108,8 +108,6 @@ class Gather:
         except TencentCloudSDKException as err:
             print(err)
 
-    # 关键点，上面两函数直接套着用就行了，不用管，这里是重点
-
     def pass_recaptha(self):
         # 点击验证
         # 等待加载上验证框，验证框iframe被套在一个form中
@@ -263,7 +261,8 @@ class Gather:
                     return self.get_html(url)
 
             print("... it's CAPTCHA time!\a ...")
-            self.pass_recaptha()
+            # self.pass_recaptha()
+            time.sleep(5)
 
     def main(self):
         self.JumpInfo()
