@@ -1,0 +1,2494 @@
+Interpretable and Efficient Heterogeneous Graph Convolutional Network:196
+  1:
+	Cited_By_Passage: A comprehensive survey on multi-view clustering
+	Cited_By_Author: U Fang, M Li, J Li, L Gao, T Jia…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10108535/
+  2:
+	Cited_By_Passage: A comprehensive overview of knowledge graph completion
+	Cited_By_Author: T Shen, F Zhang, J Cheng
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S095070512200805X
+  3:
+	Cited_By_Passage: A survey on deep learning based knowledge tracing
+	Cited_By_Author: X Song, J Li, T Cai, S Yang, T Yang, C Liu
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011297
+  4:
+	Cited_By_Passage: Anomal-E: A self-supervised network intrusion detection system based on graph neural networks
+	Cited_By_Author: E Caville, WW Lo, S Layeghy, M Portmann
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011236
+  5:
+	Cited_By_Passage: Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data
+	Cited_By_Author: X Kong, W Zhou, G Shen, W Zhang, N Liu…
+	Cited_By_Journal: Knowledge-Based …, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122012849
+  6:
+	Cited_By_Passage: Self-supervised heterogeneous graph pre-training based on structural clustering
+	Cited_By_Author: Y Yang, Z Guan, Z Wang, W Zhao…
+	Cited_By_Journal: Advances in …, 2022 - proceedings.neurips.cc
+	Passage_Src: https://proceedings.neurips.cc/paper_files/paper/2022/hash/6c7297baffe5c85ea1d9e1ccb1222ab8-Abstract-Conference.html
+  7:
+	Cited_By_Passage: Collaborative representation learning for nodes and relations via heterogeneous graph neural network
+	Cited_By_Author: W Li, L Ni, J Wang, C Wang
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122008474
+  8:
+	Cited_By_Passage: Robust cross-network node classification via constrained graph mutual information
+	Cited_By_Author: S Yang, B Cai, T Cai, X Song, J Jiang, B Li…
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122009455
+  9:
+	Cited_By_Passage: A survey on graph representation learning methods
+	Cited_By_Author: S Khoshraftar, A An
+	Cited_By_Journal: ACM Transactions on Intelligent Systems and …, 2024 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3633518
+  10:
+	Cited_By_Passage: A multi-type transferable method for missing link prediction in heterogeneous social networks
+	Cited_By_Author: H Wang, Z Cui, R Liu, L Fang…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10004751/
+  11:
+	Cited_By_Passage: Building and exploiting spatial–temporal knowledge graph for next POI recommendation
+	Cited_By_Author: W Chen, H Wan, S Guo, H Huang, S Zheng, J Li…
+	Cited_By_Journal: Knowledge-Based …, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122010449
+  12:
+	Cited_By_Passage: Robust image clustering via context-aware contrastive graph learning
+	Cited_By_Author: U Fang, J Li, X Lu, A Mian, Z Gu
+	Cited_By_Journal: Pattern Recognition, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0031320323000419
+  13:
+	Cited_By_Passage: Transo: a knowledge-driven representation learning method with ontology information constraints
+	Cited_By_Author: Z Li, X Liu, X Wang, P Liu, Y Shen
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01016-3
+  14:
+	Cited_By_Passage: Heterogeneous graph neural networks analysis: a survey of techniques, evaluations and applications
+	Cited_By_Author: R Bing, G Yuan, M Zhu, F Meng, H Ma…
+	Cited_By_Journal: Artificial Intelligence …, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10462-022-10375-2
+  15:
+	Cited_By_Passage: An attention-based deep learning method for solving the cold-start and sparsity issues of recommender systems
+	Cited_By_Author: N Heidari, P Moradi, A Koochari
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122009339
+  16:
+	Cited_By_Passage: Causal inference for knowledge graph based recommendation
+	Cited_By_Author: Y Wei, X Wang, L Nie, S Li, D Wang…
+	Cited_By_Journal: IEEE Transactions on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9996555/
+  17:
+	Cited_By_Passage: A unified framework for cross-domain and cross-system recommendations
+	Cited_By_Author: F Zhu, Y Wang, J Zhou, C Chen, L Li…
+	Cited_By_Journal: IEEE Transactions on …, 2021 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9514447/
+  18:
+	Cited_By_Passage: SR-HGN: Semantic-and relation-aware heterogeneous graph neural network
+	Cited_By_Author: Z Wang, D Yu, Q Li, S Shen, S Yao
+	Cited_By_Journal: Expert Systems with Applications, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0957417423004840
+  19:
+	Cited_By_Passage: A knowledge graph completion model based on contrastive learning and relation enhancement method
+	Cited_By_Author: LY Li, X Zhang, YB Ma, C Gao, J Wang, Y Yu…
+	Cited_By_Journal: Knowledge-Based …, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122009820
+  20:
+	Cited_By_Passage: Gomic: Multi-view image clustering via self-supervised contrastive heterogeneous graph co-learning
+	Cited_By_Author: U Fang, J Li, N Akhtar, M Li, Y Jia
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01110-6
+  21:
+	Cited_By_Passage: Dynamic graph transformer for 3D object detection
+	Cited_By_Author: S Ren, X Pan, W Zhao, B Nie, B Han
+	Cited_By_Journal: Knowledge-Based Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011819
+  22:
+	Cited_By_Passage: Step by step: A hierarchical framework for multi-hop knowledge graph reasoning with reinforcement learning
+	Cited_By_Author: A Zhu, D Ouyang, S Liang, J Shao
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122004026
+  23:
+	Cited_By_Passage: FGC: GCN-based federated learning approach for trust industrial service recommendation
+	Cited_By_Author: Y Yin, Y Li, H Gao, T Liang…
+	Cited_By_Journal: IEEE Transactions on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9918030/
+  24:
+	Cited_By_Passage: Knowledge graph embedding by relational and entity rotation
+	Cited_By_Author: X Huang, J Tang, Z Tan, W Zeng, J Wang…
+	Cited_By_Journal: Knowledge-Based …, 2021 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705121005724
+  25:
+	Cited_By_Passage: TreeCN: time series prediction with the tree convolutional network for traffic prediction
+	Cited_By_Author: Z Lv, Z Cheng, J Li, Z Xu, Z Yang
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10299575/
+  26:
+	Cited_By_Passage: Inclusivity induced adaptive graph learning for multi-view clustering
+	Cited_By_Author: X Zou, C Tang, X Zheng, K Sun, W Zhang…
+	Cited_By_Journal: Knowledge-Based …, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705123001740
+  27:
+	Cited_By_Passage: HS-GCN: Hamming spatial graph convolutional networks for recommendation
+	Cited_By_Author: H Liu, Y Wei, J Yin, L Nie
+	Cited_By_Journal: IEEE Transactions on Knowledge …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9732648/
+  28:
+	Cited_By_Passage: A key review on graph data science: The power of graphs in scientific studies
+	Cited_By_Author: R Das, M Soylu
+	Cited_By_Journal: Chemometrics and Intelligent Laboratory Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0169743923001466
+  29:
+	Cited_By_Passage: Emerging trends in federated learning: From model fusion to federated x learning
+	Cited_By_Author: S Ji, Y Tan, T Saravirta, Z Yang, Y Liu…
+	Cited_By_Journal: International Journal of …, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s13042-024-02119-1
+  30:
+	Cited_By_Passage: G3SR: Global Graph Guided Session-Based Recommendation
+	Cited_By_Author: ZH Deng, CD Wang, L Huang, JH Lai…
+	Cited_By_Journal: IEEE transactions on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9741079/
+  31:
+	Cited_By_Passage: Multi-task learning with graph attention networks for multi-domain task-oriented dialogue systems
+	Cited_By_Author: M Zhao, L Wang, Z Jiang, R Li, X Lu, Z Hu
+	Cited_By_Journal: Knowledge-Based Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011625
+  32:
+	Cited_By_Passage: Rare: Robust masked graph autoencoder
+	Cited_By_Author: W Tu, Q Liao, S Zhou, X Peng, C Ma…
+	Cited_By_Journal: … on Knowledge and …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10328443/
+  33:
+	Cited_By_Passage: CGSNet: Contrastive graph self-attention network for session-based recommendation
+	Cited_By_Author: F Wang, X Lu, L Lyu
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122006438
+  34:
+	Cited_By_Passage: A cross-attention BERT-based framework for continuous sign language recognition
+	Cited_By_Author: Z Zhou, VWL Tam, EY Lam
+	Cited_By_Journal: IEEE Signal Processing Letters, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9860060/
+  35:
+	Cited_By_Passage: Revisiting multi-view learning: A perspective of implicitly heterogeneous Graph Convolutional Network
+	Cited_By_Author: Y Zou, Z Fang, Z Wu, C Zheng, S Wang
+	Cited_By_Journal: Neural Networks, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0893608023006184
+  36:
+	Cited_By_Passage: Higher order heterogeneous graph neural network based on node attribute enhancement
+	Cited_By_Author: C Li, J Fu, Y Yan, Z Zhao, Q Zeng
+	Cited_By_Journal: Expert Systems with Applications, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0957417423029068
+  37:
+	Cited_By_Passage: Semantic-aware node synthesis for imbalanced heterogeneous information networks
+	Cited_By_Author: X Gao, W Zhang, T Chen, J Yu, HQV Nguyen…
+	Cited_By_Journal: Proceedings of the 32nd …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3583780.3615055
+  38:
+	Cited_By_Passage: Self-supervised contrastive learning on heterogeneous graphs with mutual constraints of structure and feature
+	Cited_By_Author: Q Zhang, Z Zhao, H Zhou, X Li, C Li
+	Cited_By_Journal: Information Sciences, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0020025523006114
+  39:
+	Cited_By_Passage: Smgcl: Semi-supervised multi-view graph contrastive learning
+	Cited_By_Author: H Zhou, M Gong, S Wang, Y Gao, Z Zhao
+	Cited_By_Journal: Knowledge-Based Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122012163
+  40:
+	Cited_By_Passage: Reinforcement recommendation reasoning through knowledge graphs for explanation path quality
+	Cited_By_Author: G Balloccu, L Boratto, G Fenu, M Marras
+	Cited_By_Journal: Knowledge-Based Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011947
+  41:
+	Cited_By_Passage: KGVQL: A knowledge graph visual query language with bidirectional transformations
+	Cited_By_Author: P Liu, X Wang, Q Fu, Y Yang, YF Li, Q Zhang
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122004154
+  42:
+	Cited_By_Passage: Osgnn: Original graph and subgraph aggregated graph neural network
+	Cited_By_Author: Y Yan, C Li, Y Yu, X Li, Z Zhao
+	Cited_By_Journal: Expert Systems with Applications, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0957417423006176
+  43:
+	Cited_By_Passage: Explainable meta-path based recommender systems
+	Cited_By_Author: T Markchom, H Liang, J Ferryman
+	Cited_By_Journal: ACM Transactions on …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3625828
+  44:
+	Cited_By_Passage: A meta-learning approach for training explainable graph neural networks
+	Cited_By_Author: I Spinelli, S Scardapane…
+	Cited_By_Journal: IEEE Transactions on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9772740/
+  45:
+	Cited_By_Passage: MECCH: metapath context convolution-based heterogeneous graph neural networks
+	Cited_By_Author: X Fu, I King
+	Cited_By_Journal: Neural Networks, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0893608023006548
+  46:
+	Cited_By_Passage: HetReGAT-FC: Heterogeneous residual graph attention network via feature completion
+	Cited_By_Author: C Li, Y Yan, J Fu, Z Zhao, Q Zeng
+	Cited_By_Journal: Information Sciences, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0020025523003316
+  47:
+	Cited_By_Passage: A novel feature-based framework enabling multi-type DDoS attacks detection
+	Cited_By_Author: L Zhou, Y Zhu, Y Xiang, T Zong
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01040-3
+  48:
+	Cited_By_Passage: Intra-and inter-association attention network-enhanced policy learning for social group recommendation
+	Cited_By_Author: Y Wang, Z Dai, J Cao, J Wu, H Tao, G Zhu
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01035-0
+  49:
+	Cited_By_Passage: Structured anchor-inferred graph learning for universal incomplete multi-view clustering
+	Cited_By_Author: W He, Z Zhang, Y Chen, J Wen
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01012-7
+  50:
+	Cited_By_Passage: Stochastic configuration networks for multi-dimensional integral evaluation
+	Cited_By_Author: S Li, X Huang, D Wang
+	Cited_By_Journal: Information Sciences, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0020025522003292
+  51:
+	Cited_By_Passage: Scalable and explainable visually-aware recommender systems
+	Cited_By_Author: T Markchom, H Liang, J Ferryman
+	Cited_By_Journal: Knowledge-Based Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705123000084
+  52:
+	Cited_By_Passage: Towards explainable motion prediction using heterogeneous graph representations
+	Cited_By_Author: SC Limeros, S Majchrowska, J Johnander…
+	Cited_By_Journal: … Research Part C …, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0968090X23003959
+  53:
+	Cited_By_Passage: Memory-augmented meta-learning framework for session-based target behavior recommendation
+	Cited_By_Author: B Yu, X Li, J Fang, C Tai, W Cheng, J Xu
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01036-z
+  54:
+	Cited_By_Passage: Staged query graph generation based on answer type for question answering over knowledge base
+	Cited_By_Author: H Chen, F Ye, Y Fan, Z He, Y Jing, K Zhang…
+	Cited_By_Journal: Knowledge-Based …, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122007948
+  55:
+	Cited_By_Passage: Towards fine-grained explainability for heterogeneous graph neural network
+	Cited_By_Author: T Li, J Deng, Y Shen, L Qiu, H Yongxiang…
+	Cited_By_Journal: Proceedings of the AAAI …, 2023 - ojs.aaai.org
+	Passage_Src: https://ojs.aaai.org/index.php/AAAI/article/view/26040
+  56:
+	Cited_By_Passage: Heterogeneous graph neural network with multi-view representation learning
+	Cited_By_Author: Z Shao, Y Xu, W Wei, F Wang…
+	Cited_By_Journal: IEEE Transactions on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9961953/
+  57:
+	Cited_By_Passage: A spatial–temporal graph neural network framework for automated software bug triaging
+	Cited_By_Author: H Wu, Y Ma, Z Xiang, C Yang, K He
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122001083
+  58:
+	Cited_By_Passage: Knowledge graph completion using topological correlation and multi-perspective independence
+	Cited_By_Author: M Yu, Q Zhang, J Yu, M Zhao, X Li, D Jin…
+	Cited_By_Journal: Knowledge-Based …, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011248
+  59:
+	Cited_By_Passage: Pseudo contrastive learning for graph-based semi-supervised learning
+	Cited_By_Author: W Lu, Z Guan, W Zhao, Y Yang, Y Lv, L Xing…
+	Cited_By_Journal: arXiv preprint arXiv …, 2023 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2302.09532
+  60:
+	Cited_By_Passage: Zero-shot transfer learning within a heterogeneous graph via knowledge transfer networks
+	Cited_By_Author: M Yoon, J Palowitch, D Zelle, Z Hu…
+	Cited_By_Journal: Advances in …, 2022 - proceedings.neurips.cc
+	Passage_Src: https://proceedings.neurips.cc/paper_files/paper/2022/hash/af2bb2b2280d36f8842e440b4e275152-Abstract-Conference.html
+  61:
+	Cited_By_Passage: Hierarchical bottleneck for heterogeneous graph representation
+	Cited_By_Author: Y He, L Meng, J Ma, Y Zhang, Q Wu, W Ding…
+	Cited_By_Journal: Information Sciences, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0020025524003359
+  62:
+	Cited_By_Passage: Individual diversity preference aware neural collaborative filtering
+	Cited_By_Author: G Liang, J Wen, W Zhou
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122008760
+  63:
+	Cited_By_Passage: Graph pooling via Dual-view Multi-level Infomax
+	Cited_By_Author: Q Zhao, H Zhang, M He, W Li, C Kang, M Han
+	Cited_By_Journal: Knowledge-Based Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011856
+  64:
+	Cited_By_Passage: EPT-GCN: Edge propagation-based time-aware graph convolution network for POI recommendation
+	Cited_By_Author: F Mo, H Yamana
+	Cited_By_Journal: Neurocomputing, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0925231223003958
+  65:
+	Cited_By_Passage: M2GCN: multi-modal graph convolutional network for modeling polypharmacy side effects
+	Cited_By_Author: Q Liu, E Yao, C Liu, X Zhou, Y Li, M Xu
+	Cited_By_Journal: Applied Intelligence, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10489-022-03839-z
+  66:
+	Cited_By_Passage: Graph-grounded goal planning for conversational recommendation
+	Cited_By_Author: Z Liu, D Zhou, H Liu, H Wang, ZY Niu…
+	Cited_By_Journal: … on Knowledge and …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9699426/
+  67:
+	Cited_By_Passage: Anchor link prediction across social networks based on multiple consistency
+	Cited_By_Author: Y Yang, L Wang, D Liu
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122010322
+  68:
+	Cited_By_Passage: Towards explaining graph neural networks via preserving prediction ranking and structural dependency
+	Cited_By_Author: Y Zhang, WK Cheung, Q Liu, G Wang, L Yang…
+	Cited_By_Journal: Information Processing & …, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0306457323003084
+  69:
+	Cited_By_Passage: Short text topic learning using heterogeneous information network
+	Cited_By_Author: Q Wang, C Zhu, Y Zhang, H Zhong…
+	Cited_By_Journal: … on Knowledge and …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9699033/
+  70:
+	Cited_By_Passage: Attention-based hierarchical denoised deep clustering network
+	Cited_By_Author: Y Dong, Z Wang, J Du, W Fang, L Li
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01007-4
+  71:
+	Cited_By_Passage: Combining intra-risk and contagion risk for enterprise bankruptcy prediction using graph neural networks
+	Cited_By_Author: S Wei, J Lv, Y Guo, Q Yang, X Chen, Y Zhao, Q Li…
+	Cited_By_Journal: Information …, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0020025523016675
+  72:
+	Cited_By_Passage: A multi-attribute decision making approach based on information extraction for real estate buyer profiling
+	Cited_By_Author: L Zhu, M Xu, Y Xu, Z Zhu, Y Zhao, X Kong
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01010-9
+  73:
+	Cited_By_Passage: Semi-supervised learning with network embedding on ambient rf signals for geofencing services
+	Cited_By_Author: W Zhuo, KH Chiu, J Chen, J Tan…
+	Cited_By_Journal: 2023 IEEE 39th …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10184832/
+  74:
+	Cited_By_Passage: Distributed dominance graph-based neural multi-objective evolutionary strategy for sponsored search real-time bidding
+	Cited_By_Author: Y Yang, H Wu, Z Guan, J Li, W Zhao, C Xu, H Li…
+	Cited_By_Journal: Knowledge-Based …, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705123006718
+  75:
+	Cited_By_Passage: Seq-HGNN: learning sequential node representation on heterogeneous graph
+	Cited_By_Author: C Du, K Yao, H Zhu, D Wang, F Zhuang…
+	Cited_By_Journal: Proceedings of the 46th …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3539618.3591765
+  76:
+	Cited_By_Passage: Optimizing graph neural network with multiaspect Hilbert–Schmidt independence criterion
+	Cited_By_Author: Y He, D Yan, W Xie, Y Zhang, Q He…
+	Cited_By_Journal: IEEE Transactions on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9772710/
+  77:
+	Cited_By_Passage: Contrastive learning with heterogeneous graph attention networks on short text classification
+	Cited_By_Author: Z Sun, A Harit, AI Cristea, J Yu, L Shi…
+	Cited_By_Journal: … Joint Conference on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9892257/
+  78:
+	Cited_By_Passage: Adaptive online learning for vulnerability exploitation time prediction
+	Cited_By_Author: J Yin, MJ Tang, J Cao, H Wang, M You…
+	Cited_By_Journal: Web Information Systems …, 2020 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-3-030-62008-0_18
+  79:
+	Cited_By_Passage: Revisiting initializing then refining: an incomplete and missing graph imputation network
+	Cited_By_Author: W Tu, B Xiao, X Liu, S Zhou, Z Cai…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10398247/
+  80:
+	Cited_By_Passage: Graph convolutional neural networks with diverse negative samples via decomposed determinant point processes
+	Cited_By_Author: W Duan, J Xuan, M Qiao, J Lu
+	Cited_By_Journal: IEEE Transactions on Neural …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10255371/
+  81:
+	Cited_By_Passage: A bilateral heterogeneous graph model for interpretable job recommendation considering both reciprocity and competition
+	Cited_By_Author: X Shi, Q Wei, G Chen
+	Cited_By_Journal: Frontiers of Engineering Management, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s42524-023-0280-2
+  82:
+	Cited_By_Passage: Heterogeneous graph knowledge distillation neural network incorporating multiple relations and cross-semantic interactions
+	Cited_By_Author: J Fu, C Li, Z Zhao, Q Zeng
+	Cited_By_Journal: Information Sciences, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S002002552301589X
+  83:
+	Cited_By_Passage: Deep link-prediction based on the local structure of bipartite networks
+	Cited_By_Author: H Lv, B Zhang, S Hu, Z Xu
+	Cited_By_Journal: Entropy, 2022 - mdpi.com
+	Passage_Src: https://www.mdpi.com/1099-4300/24/5/610
+  84:
+	Cited_By_Passage: Ncgnn: Node-level capsule graph neural network for semisupervised classification
+	Cited_By_Author: R Yang, W Dai, C Li, J Zou…
+	Cited_By_Journal: IEEE Transactions on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9792205/
+  85:
+	Cited_By_Passage: Interpreting sarcasm on social media using attention-based neural networks
+	Cited_By_Author: Z Keivanlou-Shahrestanaki, M Kahani…
+	Cited_By_Journal: Knowledge-Based …, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S095070512201070X
+  86:
+	Cited_By_Passage: Predicting financial distress using multimodal data: An attentive and regularized deep learning method
+	Cited_By_Author: W Che, Z Wang, C Jiang, MZ Abedin
+	Cited_By_Journal: Information Processing & …, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0306457324000633
+  87:
+	Cited_By_Passage: Exploring attention mechanism for graph similarity learning
+	Cited_By_Author: W Tan, X Gao, Y Li, G Wen, P Cao, J Yang, W Li…
+	Cited_By_Journal: Knowledge-Based …, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705123004896
+  88:
+	Cited_By_Passage: HetGNN-SF: Self-supervised learning on heterogeneous graph neural network via semantic strength and feature similarity
+	Cited_By_Author: C Li, X Liu, Y Yan, Z Zhao, Q Zeng
+	Cited_By_Journal: Applied Intelligence, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10489-023-04612-6
+  89:
+	Cited_By_Passage: Structure-aware attributed heterogeneous network embedding
+	Cited_By_Author: H Wei, G Xiong, Q Wei, W Cao, X Li
+	Cited_By_Journal: Knowledge and Information Systems, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10115-022-01810-5
+  90:
+	Cited_By_Passage: GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy
+	Cited_By_Author: T Peng, W Wu, H Yuan, Z Bao, Z Pengrui, X Yu…
+	Cited_By_Journal: arXiv preprint arXiv …, 2023 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2312.09708
+  91:
+	Cited_By_Passage: SketchNE: Embedding billion-scale networks accurately in one hour
+	Cited_By_Author: Y Xie, Y Dong, J Qiu, W Yu, X Feng…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10057080/
+  92:
+	Cited_By_Passage: Few-shot semantic relation prediction across heterogeneous graphs
+	Cited_By_Author: P Ding, Y Wang, G Liu, X Zhou
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10061369/
+  93:
+	Cited_By_Passage: Label-Dependent Graph Neural Network
+	Cited_By_Author: Y He, Y Zhang, F Yang, D Yan…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10253751/
+  94:
+	Cited_By_Passage: GCN-WP–Semi-supervised graph convolutional networks for win prediction in esports
+	Cited_By_Author: AJ Bisberg, E Ferrara
+	Cited_By_Journal: 2022 IEEE Conference on Games (CoG), 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9893671/
+  95:
+	Cited_By_Passage: NAGNE: node-to-attribute generation network embedding for heterogeneous network
+	Cited_By_Author: Z Zhang, H Xu, Y Li, Z Zhai, Y Ding
+	Cited_By_Journal: Applied Sciences, 2024 - mdpi.com
+	Passage_Src: https://www.mdpi.com/2076-3417/14/3/1053
+  96:
+	Cited_By_Passage: Optimization of maintenance personnel dispatching strategy in smart grid
+	Cited_By_Author: Y Chen, N Zhang, J Yan, G Zhu, G Min
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01019-0
+  97:
+	Cited_By_Passage: The most active community search in large temporal graphs
+	Cited_By_Author: L Li, Y Zhao, Y Li, F Wahab, Z Wang
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122005433
+  98:
+	Cited_By_Passage: Neural Combinatorial Optimization on Heterogeneous Graphs: An Application to the Picker Routing Problem in Mixed-Shelves Warehouses
+	Cited_By_Author: L Luttmann, L Xie
+	Cited_By_Journal: Proceedings of the International Conference on …, 2024 - ojs.aaai.org
+	Passage_Src: https://ojs.aaai.org/index.php/ICAPS/article/view/31494
+  99:
+	Cited_By_Passage: Few-Shot Causal Representation Learning for Out-of-Distribution Generalization on Heterogeneous Graphs
+	Cited_By_Author: P Ding, Y Wang, G Liu, N Wang
+	Cited_By_Journal: arXiv preprint arXiv:2401.03597, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2401.03597
+  100:
+	Cited_By_Passage: LIFOSS: a learned index scheme for streaming scenarios
+	Cited_By_Author: T Yu, G Liu, A Liu, Z Li, L Zhao
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01021-6
+  101:
+	Cited_By_Passage: Efficient analysis of deep neural networks for vision via biologically-inspired receptive field angles: An in-depth survey
+	Cited_By_Author: Y Ma, M Yu, H Lin, C Liu, M Hu, Q Song
+	Cited_By_Journal: Information Fusion, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S1566253524003609
+  102:
+	Cited_By_Passage: Learning Bi-typed multi-relational heterogeneous graph via dual hierarchical attention networks
+	Cited_By_Author: Y Zhao, S Wei, H Du, X Chen, Q Li…
+	Cited_By_Journal: … on Knowledge and …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9954185/
+  103:
+	Cited_By_Passage: SR-HetGNN: session-based recommendation with heterogeneous graph neural network
+	Cited_By_Author: J Chen, H Li, X Zhang, F Zhang, S Wang…
+	Cited_By_Journal: … and Information Systems, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10115-023-01986-4
+  104:
+	Cited_By_Passage: Backbone-based Dynamic Spatio-Temporal Graph Neural Network for epidemic forecasting
+	Cited_By_Author: J Mao, Y Han, G Tanaka, B Wang
+	Cited_By_Journal: Knowledge-Based Systems, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705124005860
+  105:
+	Cited_By_Passage: Unsupervised Graph Transformer With Augmentation-Free Contrastive Learning
+	Cited_By_Author: H Zhao, X Yang, K Wei, C Deng…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10505804/
+  106:
+	Cited_By_Passage: GSim: a graph neural network based relevance measure for heterogeneous graphs
+	Cited_By_Author: L Luo, Y Fang, M Lu, X Cao, X Zhang…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10111040/
+  107:
+	Cited_By_Passage: McH-HGCN: multi-curvature hyperbolic heterogeneous graph convolutional network with type triplets
+	Cited_By_Author: Y Liu, B Lang
+	Cited_By_Journal: Neural Computing and Applications, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s00521-023-08473-5
+  108:
+	Cited_By_Passage: SkipNode: On alleviating performance degradation for deep graph convolutional networks
+	Cited_By_Author: W Lu, Y Zhan, B Lin, Z Guan, L Liu, B Yu…
+	Cited_By_Journal: … on Knowledge and …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10497904/
+  109:
+	Cited_By_Passage: Identifying informative tweets during a pandemic via a topic-aware neural language model
+	Cited_By_Author: W Gao, L Li, X Tao, J Zhou, J Tao
+	Cited_By_Journal: World wide web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01034-1
+  110:
+	Cited_By_Passage: A heterogeneous graph neural network with automatic discovery of effective metapaths for drug-target interaction prediction
+	Cited_By_Author: M Zhang, Y Hong, L Shen, S Xu, Y Xu, X Zhang…
+	Cited_By_Journal: Future Generation …, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0167739X24002875
+  111:
+	Cited_By_Passage: Multi-semantic alignment graph convolutional network
+	Cited_By_Author: J Qin, X Zeng, S Wu, Y Zou
+	Cited_By_Journal: Connection Science, 2022 - Taylor & Francis
+	Passage_Src: https://www.tandfonline.com/doi/abs/10.1080/09540091.2022.2115010
+  112:
+	Cited_By_Passage: Curriculum Learning Empowered Reinforcement Learning for Graph-based Portfolio Management: Performance Optimization and Comprehensive Analysis
+	Cited_By_Author: AA Salama
+	Cited_By_Journal: Neural Networks, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0893608024004611
+  113:
+	Cited_By_Passage: Empowering vulnerability prioritization: A heterogeneous graph-driven framework for exploitability prediction
+	Cited_By_Author: J Yin, G Chen, W Hong, H Wang, J Cao…
+	Cited_By_Journal: … Conference on Web …, 2023 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-981-99-7254-8_23
+  114:
+	Cited_By_Passage: AFENet: Attention-guided feature enhancement network and a benchmark for low-altitude UAV sewage outfall detection
+	Cited_By_Author: Q Huang, J Fan, H Xu, W Han, X Huang, Y Chen
+	Cited_By_Journal: Array, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S2590005624000092
+  115:
+	Cited_By_Passage: DTRE: A model for predicting drug-target interactions of endometrial cancer based on heterogeneous graph
+	Cited_By_Author: M Li, H Liu, F Kong, P Lv
+	Cited_By_Journal: Future Generation Computer Systems, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0167739X24003753
+  116:
+	Cited_By_Passage: ARGENT: Multi-task learning model for predicting autism-related genes and drug targets using heterogeneous graph convolutional network
+	Cited_By_Author: W Yu, X Miao
+	Cited_By_Journal: Future Generation Computer Systems, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0167739X24003522
+  117:
+	Cited_By_Passage: Compound-protein interaction prediction based on heterogeneous network reveals potential antihepatoma agents
+	Cited_By_Author: YC Wang, TZ Li, JJ Chen
+	Cited_By_Journal: iScience, 2024 - cell.com
+	Passage_Src: https://www.cell.com/iscience/fulltext/S2589-0042(24)01643-2
+  118:
+	Cited_By_Passage: Review of heterogeneous graph embedding methods based on deep learning techniques and comparing their efficiency in node classification
+	Cited_By_Author: A Noori, MA Balafar, A Bouyer, K Salmani
+	Cited_By_Journal: Social Network Analysis and …, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s13278-023-01178-6
+  119:
+	Cited_By_Passage: Datasets and Interfaces for Benchmarking Heterogeneous Graph Neural Networks
+	Cited_By_Author: Y Liu, H Zhang, C Yang, A Li, Y Ji, L Zhang…
+	Cited_By_Journal: Proceedings of the …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3583780.3615117
+  120:
+	Cited_By_Passage: KGIE: Knowledge graph convolutional network for recommender system with interactive embedding
+	Cited_By_Author: M Li, W Ma, Z Chu
+	Cited_By_Journal: Knowledge-Based Systems, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705124004477
+  121:
+	Cited_By_Passage: Meta-structure-based graph attention networks
+	Cited_By_Author: J Li, Q Sun, F Zhang, B Yang
+	Cited_By_Journal: Neural Networks, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S089360802300730X
+  122:
+	Cited_By_Passage: Cross-Modality and Equity-Aware Graph Pooling Fusion: A Bike Mobility Prediction Study
+	Cited_By_Author: X Yang, S He, KG Shin…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10557129/
+  123:
+	Cited_By_Passage: Corporate investment prediction using a weighted temporal graph neural network
+	Cited_By_Author: J Li, X Yao
+	Cited_By_Journal: Wiley Interdisciplinary Reviews: Data Mining and …, 2022 - Wiley Online Library
+	Passage_Src: https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.1472
+  124:
+	Cited_By_Passage: GDCNet: Graph Enrichment Learning via Graph Dropping Convolutional Networks
+	Cited_By_Author: B Jiang, Y Chen, B Wang, H Xu…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10198661/
+  125:
+	Cited_By_Passage: MHGNN: Multi-view fusion based Heterogeneous Graph Neural Network
+	Cited_By_Author: C Li, X Zhu, Y Yan, Z Zhao, L Su, Q Zeng
+	Cited_By_Journal: Applied Intelligence, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10489-024-05567-y
+  126:
+	Cited_By_Passage: HeGAE-AC: Heterogeneous graph auto-encoder for attribute completion
+	Cited_By_Author: Y Chen, Y Liu
+	Cited_By_Journal: Knowledge-Based Systems, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705124000716
+  127:
+	Cited_By_Passage: Deep contrastive multi-view clustering with doubly enhanced commonality
+	Cited_By_Author: Z Yang, C Zhu, Z Li
+	Cited_By_Journal: Multimedia Systems, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s00530-024-01400-1
+  128:
+	Cited_By_Passage: A review of multimodal learning for text to images
+	Cited_By_Author: W Chen, Y Yang, Z Tian, Q Chen, J Liu
+	Cited_By_Journal: Multimedia Tools and …, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11042-024-19117-8
+  129:
+	Cited_By_Passage: Heterogeneous Graph Neural Network with Personalized and Adaptive Diversity for News Recommendation
+	Cited_By_Author: G Zhang, D Li, H Gu, T Lu, N Gu
+	Cited_By_Journal: ACM Transactions on the Web, 2024 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3649886
+  130:
+	Cited_By_Passage: Relation-attention semantic-correlative knowledge graph embedding for inductive link prediction
+	Cited_By_Author: L Xiaonan, N Bo, L Guanyu, W Jie
+	Cited_By_Journal: International Journal of Machine …, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s13042-023-01865-y
+  131:
+	Cited_By_Passage: HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning
+	Cited_By_Author: Q Zhu, L Zhang, Q Xu, K Liu, C Long…
+	Cited_By_Journal: arXiv preprint arXiv …, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2407.13158
+  132:
+	Cited_By_Passage: An Unsupervised Anomaly Detection Model for Weighted Heterogeneous Graph
+	Cited_By_Author: M Khazaei, N Ashrafi-Payaman
+	Cited_By_Journal: Journal of AI and Data Mining, 2023 - jad.shahroodut.ac.ir
+	Passage_Src: https://jad.shahroodut.ac.ir/article_2778.html
+  133:
+	Cited_By_Passage: LightCapsGNN: light capsule graph neural network for graph classification
+	Cited_By_Author: Y Yan, J Li, S Xu, X Chen, G Liu, YG Fu
+	Cited_By_Journal: Knowledge and Information …, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10115-024-02170-y
+  134:
+	Cited_By_Passage: Community aware graph embedding learning for item recommendation
+	Cited_By_Author: P Hao, Z Qian, S Wang, C Bai
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-023-01224-5
+  135:
+	Cited_By_Passage: Variational autoencoder densified graph attention for fusing synonymous entities: Model and protocol
+	Cited_By_Author: Q Li, D Wang, S Feng, K Song, Y Zhang…
+	Cited_By_Journal: Knowledge-Based Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011546
+  136:
+	Cited_By_Passage: Group homophily based facility location selection in geo-social networks
+	Cited_By_Author: Y Ma, N Cui, ZZ Jiang, Y Yuan, G Wang
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01008-3
+  137:
+	Cited_By_Passage: GP-HTNLoc: A graph prototype head-tail network-based model for multi-label subcellular localization prediction of ncRNAs
+	Cited_By_Author: S Han, L Liu
+	Cited_By_Journal: Computational and Structural Biotechnology Journal, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S200103702400134X
+  138:
+	Cited_By_Passage: Heterogeneous Graph Prototypical Networks for Few-Shot Node Classification
+	Cited_By_Author: Y Hao, M Wang, X Wang, T Zheng, X Wang…
+	Cited_By_Journal: … Conference on Neural …, 2023 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-981-99-8132-8_41
+  139:
+	Cited_By_Passage: A novel automated framework for fine-grained sentiment analysis of application reviews using deep neural networks
+	Cited_By_Author: H Zou, Y Wang
+	Cited_By_Journal: Automated Software Engineering, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10515-024-00444-x
+  140:
+	Cited_By_Passage: Heterogeneous graph neural network with graph-data augmentation and adaptive denoising
+	Cited_By_Author: X Lou, G Liu, J Li
+	Cited_By_Journal: Applied Intelligence, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10489-024-05363-8
+  141:
+	Cited_By_Passage: Metapath and attribute-based academic collaborator recommendation in heterogeneous academic networks
+	Cited_By_Author: H Li, Y Hu
+	Cited_By_Journal: Scientometrics, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11192-024-05043-x
+  142:
+	Cited_By_Passage: MFHE: multi-view fusion-based heterogeneous information network embedding
+	Cited_By_Author: T Liu, J Yin, Q Qin
+	Cited_By_Journal: Applied Sciences, 2022 - mdpi.com
+	Passage_Src: https://www.mdpi.com/2076-3417/12/16/8218
+  143:
+	Cited_By_Passage: PGB: A PubMed Graph Benchmark for Heterogeneous Network Representation Learning
+	Cited_By_Author: EW Lee, JC Ho
+	Cited_By_Journal: Proceedings of the 32nd ACM International …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3583780.3615128
+  144:
+	Cited_By_Passage: HeteroMILE: a Multi-Level Graph Representation Learning Framework for Heterogeneous Graphs
+	Cited_By_Author: Y Zhang, Y He, S Gurukar, S Parthasarathy
+	Cited_By_Journal: arXiv preprint arXiv …, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2404.00816
+  145:
+	Cited_By_Passage: A Fast and Robust Attention-free Heterogeneous Graph Convolutional Network
+	Cited_By_Author: Y Yan, Z Zhao, Z Yang, Y Yu, C Li
+	Cited_By_Journal: IEEE Transactions on Big …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10463147/
+  146:
+	Cited_By_Passage: The node importance evaluation method based on graph convolution in multilayer heterogeneous networks
+	Cited_By_Author: Z Chen, J Shu, L Liu
+	Cited_By_Journal: Connection Science, 2023 - Taylor & Francis
+	Passage_Src: https://www.tandfonline.com/doi/abs/10.1080/09540091.2023.2229964
+  147:
+	Cited_By_Passage: Spam review detection with Metapath-aggregated graph convolution network
+	Cited_By_Author: P Jayashree, K Laila…
+	Cited_By_Journal: Journal of Intelligent & …, 2023 - content.iospress.com
+	Passage_Src: https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs223136
+  148:
+	Cited_By_Passage: Multi-view contrastive enhanced heterogeneous graph structure learning
+	Cited_By_Author: 邴睿， 袁冠， 孟凡荣， 王森章， 乔少杰， 王志晓
+	Cited_By_Journal: Journal of Software, 2023 - jos.org.cn
+	Passage_Src: https://www.jos.org.cn/josen/article/abstract/6883
+  149:
+	Cited_By_Passage: Exploiting high-order local and global user–item interactions for effective recommendation
+	Cited_By_Author: S Tian, G Guo, Y Li, Y Liu, X Wang
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122002787
+  150:
+	Cited_By_Passage: PreKar: A learned performance predictor for knowledge graph stores
+	Cited_By_Author: Z Qi, H Wang, Z Shen, D Yang
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01033-2
+  151:
+	Cited_By_Passage: Meta-path and hypergraph fused distillation framework for heterogeneous information networks embedding
+	Cited_By_Author: B Yu, C Xie, H Cai, H Duan, P Tang
+	Cited_By_Journal: Information Sciences, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0020025524003669
+  152:
+	Cited_By_Passage: Feature-enhanced embedding learning for heterogeneous collaborative filtering
+	Cited_By_Author: W Yang, J Li, S Tan, Y Tan, X Lu
+	Cited_By_Journal: Neural Computing and Applications, 2022 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s00521-022-07490-0
+  153:
+	Cited_By_Passage: Sylvester Equation Induced Collaborative Representation Learning for Recommendation
+	Cited_By_Author: X Li, Z Zhu, S Zheng, Z Liu, Y Li, X Guo…
+	Cited_By_Journal: … on Knowledge and …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9933729/
+  154:
+	Cited_By_Passage: Simple and Efficient Metapath Aggregated Network for Recommendation
+	Cited_By_Author: S Chen, Z Li
+	Cited_By_Journal: IEEE Access, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10557589/
+  155:
+	Cited_By_Passage: Routing User-Interest Markov Tree for Scalable Personalized Knowledge-Aware Recommendation
+	Cited_By_Author: Y Zheng, P Wei, Z Chen, C Tang…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10138095/
+  156:
+	Cited_By_Passage: Capturing heterogeneous interactions for financial risk prediction of SMEs
+	Cited_By_Author: C Jiang, Z Wang, X Liu
+	Cited_By_Journal: 2022 - aisel.aisnet.org
+	Passage_Src: https://aisel.aisnet.org/pacis2022/56/
+  157:
+	Cited_By_Passage: Optimizing traffic efficiency via a reinforcement learning approach based on time allocation
+	Cited_By_Author: C Xiang, Z Jin, Z Yu, XS Hua, Y Hu, W Qian…
+	Cited_By_Journal: International Journal of …, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s13042-023-01838-1
+  158:
+	Cited_By_Passage: Relation-aware weighted embedding for heterogeneous graphs
+	Cited_By_Author: G Hu, J Pang
+	Cited_By_Journal: Information Technology and Control, 2023 - itc.ktu.lt
+	Passage_Src: https://www.itc.ktu.lt/index.php/ITC/article/view/32390
+  159:
+	Cited_By_Passage: LSPI: Heterogeneous Graph Neural Network Classification Aggregation Algorithm Based on Size Neighbor Path Identification
+	Cited_By_Author: Y Zhaoa, S Wanga, H Duana
+	Cited_By_Journal: arXiv preprint arXiv:2405.18933, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2405.18933
+  160:
+	Cited_By_Passage: Modeling Noncommutative Composition of Relations for Knowledge Graph Embedding
+	Cited_By_Author: C Xiang, C Fu, D Cai, X He
+	Cited_By_Journal: Electronics, 2023 - mdpi.com
+	Passage_Src: https://www.mdpi.com/2079-9292/12/6/1348
+  161:
+	Cited_By_Passage: Effective rule mining of sparse data based on transfer learning
+	Cited_By_Author: Y Sun, J Guo, B Li, NAH Haldar
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01042-1
+  162:
+	Cited_By_Passage: Enhancing Heterogeneous Graph Contrastive Learning with Strongly Correlated Subgraphs
+	Cited_By_Author: Y Liu, B Lang
+	Cited_By_Journal: International Conference on Neural Information …, 2023 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-981-99-8076-5_7
+  163:
+	Cited_By_Passage: A structure similarity based adaptive sampling method for time-dependent graph embedding
+	Cited_By_Author: A Wu, Y Yuan, Y Ma, G Wang
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122000259
+  164:
+	Cited_By_Passage: Metapath-guided dual semantic-aware filtering for HIN-based recommendation
+	Cited_By_Author: S Yan, H Wang, Y Li, C Wu, L Han, C Shi…
+	Cited_By_Journal: The Journal of …, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11227-023-05113-6
+  165:
+	Cited_By_Passage: An Adaptive Semantic Mining Framework for Heterogeneous Information Network Embedding
+	Cited_By_Author: H Shao, R Zhu, H Liu, L Wang
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10083089/
+  166:
+	Cited_By_Passage: SR-CoMbEr: Heterogeneous Network Embedding Using Community Multi-view Enhanced Graph Convolutional Network for Automating Systematic Reviews
+	Cited_By_Author: EW Lee, JC Ho
+	Cited_By_Journal: European Conference on Information Retrieval, 2023 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-3-031-28244-7_35
+  167:
+	Cited_By_Passage: Hyperbolic distance guided multi-positive graph contrastive learning
+	Cited_By_Author: Y Liu, B Lang
+	Cited_By_Journal: Proceedings of the 2023 15th International Conference …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3587716.3587746
+  168:
+	Cited_By_Passage: An End-to-End Dense Connected Heterogeneous Graph Convolutional Neural Network
+	Cited_By_Author: R Yan, J Cai
+	Cited_By_Journal: International Conference on Neural Information …, 2023 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-981-99-8079-6_36
+  169:
+	Cited_By_Passage: Meta-path free semi-supervised learning for heterogeneous networks
+	Cited_By_Author: S Park, BJ Bae, J Yeo, S Hwang
+	Cited_By_Journal: arXiv preprint arXiv:2010.08924, 2020 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2010.08924
+  170:
+	Cited_By_Passage: Mental Disorders Prediction with Heterogeneous Graph Convolutional Network
+	Cited_By_Author: H Lin, J Pan, Y Dong
+	Cited_By_Journal: 2022 IEEE International Conference on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9945193/
+  171:
+	Cited_By_Passage: A General Heterogeneous Hypergraph Neural Network for Node Classification
+	Cited_By_Author: B Hu, W Huang, T Zheng, M Song…
+	Cited_By_Journal: 2023 International Joint …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10191131/
+  172:
+	Cited_By_Passage: Dynamic path learning in decision trees using contextual bandits
+	Cited_By_Author: W Ju, D Yuan, W Bao, L Ge, BB Zhou
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01043-0
+  173:
+	Cited_By_Passage: Example query on ontology-labels knowledge graph based on filter-refine strategy
+	Cited_By_Author: L Ding, S Li, M Li, Z Chen, H Zhang, H Luo, GY Yuan
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01020-7
+  174:
+	Cited_By_Passage: FDRS: Federated Diversified Recommender System Based on Heterogeneous Graph Convolutional Network
+	Cited_By_Author: N Li, H Liu, S Meng, Q Li
+	Cited_By_Journal: … Data Science & Systems, Smart City …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10466908/
+  175:
+	Cited_By_Passage: New methods for DDoS attacks detection
+	Cited_By_Author: L Zhou
+	Cited_By_Journal: 2022 - dro.deakin.edu.au
+	Passage_Src: https://dro.deakin.edu.au/articles/thesis/New_methods_for_DDoS_attacks_detection/24769428/1/files/43530225.pdf
+  176:
+	Cited_By_Passage: Forgetting Prevention for Cross-regional Fraud Detection with Heterogeneous Trade Graph
+	Cited_By_Author: Y Li, Y Yang, X Yang, Q Gao, F Zhou
+	Cited_By_Journal: arXiv preprint arXiv:2204.10085, 2022 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2204.10085
+  177:
+	Cited_By_Passage: Robustness, Heterogeneity and Structure Capturing for Graph Representation Learning and its Application
+	Cited_By_Author: Z Sun
+	Cited_By_Journal: 2024 - etheses.dur.ac.uk
+	Passage_Src: http://etheses.dur.ac.uk/15307/
+  178:
+	Cited_By_Passage: Smart agriculture: Advancements on plant disease detection with big data and deep learning
+	Cited_By_Author: Y Fang
+	Cited_By_Journal: 2022 - dro.deakin.edu.au
+	Passage_Src: https://dro.deakin.edu.au/articles/thesis/Smart_agriculture_Advancements_on_plant_disease_detection_with_big_data_and_deep_learning/24769245/1/files/43531734.pdf
+  179:
+	Cited_By_Passage: A comprehensive solution to predict short-term and long-term user intention with environmental context
+	Cited_By_Author: H Zhang
+	Cited_By_Journal: 2023 - repository.library.carleton.ca
+	Passage_Src: https://repository.library.carleton.ca/concern/etds/gf06g370x
+  180:
+	Cited_By_Passage: Adaptive Community Aware Graph Network for Item Recommendation
+	Cited_By_Author: P Hao, Z Qian, S Wang, C Bai
+	Cited_By_Journal: 2023 - researchsquare.com
+	Passage_Src: https://www.researchsquare.com/article/rs-3063029/latest
+  181:
+	Cited_By_Passage: Node Importance Evaluation Method for Heterogeneous Networks Based on Node Embedding
+	Cited_By_Author: H Cui, L Liu, J Shu
+	Cited_By_Journal: International Conference on Communication and …, 2022 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-3-031-59619-3_4
+  182:
+	Cited_By_Passage: A Method for Measuring Node Similarity in Heterogeneous Information Networks
+	Cited_By_Author: L Zhan, H Chen, L Zhou, Q Xiao
+	Cited_By_Journal: Fuzzy Systems and Data …, 2023 - ebooks.iospress.nl
+	Passage_Src: https://ebooks.iospress.nl/volumearticle/65852
+  183:
+	Cited_By_Passage: Graph Representation Learning for Heterogeneous Multimodal Biomedical Data
+	Cited_By_Author: NC Tran
+	Cited_By_Journal: 2022 - search.proquest.com
+	Passage_Src: https://search.proquest.com/openview/89ac72f63ef22d98b81ff4b29ac5ef57/1?pq-origsite=gscholar&cbl=18750&diss=y
+  184:
+	Cited_By_Passage: Graph representation learning
+	Cited_By_Author: X Zhang
+	Cited_By_Journal: 2022 - dr.ntu.edu.sg
+	Passage_Src: https://dr.ntu.edu.sg/handle/10356/155039
+  185:
+	Cited_By_Passage: A Unified Framework for Cross-Domain and Cross-System Recommendations
+	Cited_By_Author: L Li, G Liu
+	Cited_By_Journal: CDR, 2021 - researchgate.net
+	Passage_Src: https://www.researchgate.net/profile/Feng-Zhu-59/publication/367049033_A_Unified_Framework_for_Cross-Domain_and_Cross-System_Recommendations/links/65f81da4c05fd268802057f6/A-Unified-Framework-for-Cross-Domain-and-Cross-System-Recommendations.pdf
+  186:
+	Cited_By_Passage: Interaction Enhanced Heterogeneous Graph Structure Learning
+	Cited_By_Author: R Bing, G Yuan, Z Cai, Y Zhang, Y Zhou…
+	Cited_By_Journal: Available at SSRN … - papers.ssrn.com
+	Passage_Src: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4472482
+  187:
+	Cited_By_Passage: An Unsupervised Anomaly Detection Model for Weighted Heterogeneous Graph
+	Cited_By_Author: N Ashrafi-Payaman, M Khazaei
+	Cited_By_Journal: researchgate.net
+	Passage_Src: https://www.researchgate.net/profile/Maryam_Khazaei3/publication/371540854_An_Unsupervised_Anomaly_Detection_Model_for_Weighted_Heterogeneous_Graph/links/64b3f66fc41fb852dd7b629c/An-Unsupervised-Anomaly-Detection-Model-for-Weighted-Heterogeneous-Graph.pdf
+  188:
+	Cited_By_Passage: Robust Self-supervised Learning in Heterogeneous Graph Based on Feature-Topology Balancing
+	Cited_By_Author: J Ahn, BG Kang, H Han, S Yoon
+	Cited_By_Journal: openreview.net
+	Passage_Src: https://openreview.net/forum?id=1JiIKjcwrr
+  189:
+	Cited_By_Passage: 基于元路径卷积的异构图神经网络算法
+	Cited_By_Author: 秦志龙， 邓琨， 刘星妍
+	Cited_By_Journal: 电信科学, 2024 - infocomm-journal.com
+	Passage_Src: https://www.infocomm-journal.com/dxkx/CN/10.11959/j.issn.1000-0801.2024070
+  190:
+	Cited_By_Passage: Condition Monitoring of Brake Uneven Wear in High-Speed Train Based on Multi-Source Feature Fusion Under Imbalanced Data
+	Cited_By_Author: M Zhang, W Xu, J Li
+	Cited_By_Journal: papers.ssrn.com
+	Passage_Src: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4705667
+  191:
+	Cited_By_Passage: Vulnerability Exploitability Prediction and Risk Evaluation
+	Cited_By_Author: J Yin
+	Cited_By_Journal: 2021 - opal.latrobe.edu.au
+	Passage_Src: https://opal.latrobe.edu.au/articles/thesis/Vulnerability_Exploitability_Prediction_and_Risk_Evaluation/19736353
+  192:
+	Cited_By_Passage: 多视图对比增强的异质图结构学习方法
+	Cited_By_Author: 邴睿， 袁冠， 孟凡荣， 王森章， 乔少杰， 王志晓
+	Cited_By_Journal: 软件学报, 2023 - jos.org.cn
+	Passage_Src: https://www.jos.org.cn/jos/article/pdf/6883
+  193:
+	Cited_By_Passage: CS 699 Project Final Report DeepSkill: Win Prediction and Matchmaking Framework for Elite Individuals and Teams
+	Cited_By_Author: J Enouen, AJ Bisberg
+	Cited_By_Journal: enouenj.github.io
+	Passage_Src: https://enouenj.github.io/papers/csci699.pdf
+  194:
+	Cited_By_Passage: 多重注意力指导下的异构图嵌入方法
+	Cited_By_Author: 孟祥福， 温晶， 李子函， 纪鸿樟
+	Cited_By_Journal: 智能系统学报, 2023 - html.rhhz.net
+	Passage_Src: http://html.rhhz.net/tis/html/202204006.htm
+  195:
+	Cited_By_Passage: A Appendix
+	Cited_By_Author: MAG PP, PAP PFP, PACMP AP, PSPD AP A, A APCPA…
+	Cited_By_Journal: proceedings.neurips.cc
+	Passage_Src: https://proceedings.neurips.cc/paper_files/paper/2022/file/6c7297baffe5c85ea1d9e1ccb1222ab8-Supplemental-Conference.zip
+  196:
+	Cited_By_Passage: 异构图卷积网络研究进展.
+	Cited_By_Author: 贾香恩， 董一鸿， 朱锋， 钱江波
+	Cited_By_Journal: Journal of Computer …, 2021 - search.ebscohost.com
+	Passage_Src: https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10028331&AN=150201059&h=%2F0nXFE9kJJkD3FSn3hValrHwG%2FalaoULJlbbeDJYmbPqh%2FQ3v%2FjXS%2B8hesx62sHrO2m10KHIFRSGzKfCir9zoQ%3D%3D&crl=c
+Self-supervised heterogeneous graph pre-training based on structural clustering:31
+  1:
+	Cited_By_Passage: Hard sample aware network for contrastive deep graph clustering
+	Cited_By_Author: Y Liu, X Yang, S Zhou, X Liu, Z Wang, K Liang…
+	Cited_By_Journal: Proceedings of the …, 2023 - ojs.aaai.org
+	Passage_Src: https://ojs.aaai.org/index.php/AAAI/article/view/26071
+  2:
+	Cited_By_Passage: Simple contrastive graph clustering
+	Cited_By_Author: Y Liu, X Yang, S Zhou, X Liu, S Wang…
+	Cited_By_Journal: … on Neural Networks …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10163985/
+  3:
+	Cited_By_Passage: Walklm: A uniform language model fine-tuning framework for attributed graph embedding
+	Cited_By_Author: Y Tan, Z Zhou, H Lv, W Liu…
+	Cited_By_Journal: Advances in Neural …, 2024 - proceedings.neurips.cc
+	Passage_Src: https://proceedings.neurips.cc/paper_files/paper/2023/hash/2ac879d1865475a7abc8dfc7a9c15c27-Abstract-Conference.html
+  4:
+	Cited_By_Passage: A survey of knowledge graph reasoning on graph types: Static, dynamic, and multi-modal
+	Cited_By_Author: K Liang, L Meng, M Liu, Y Liu, W Tu…
+	Cited_By_Journal: … on Pattern Analysis …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10577554/
+  5:
+	Cited_By_Passage: Attribute-missing graph clustering network
+	Cited_By_Author: W Tu, R Guan, S Zhou, C Ma, X Peng, Z Cai…
+	Cited_By_Journal: Proceedings of the …, 2024 - ojs.aaai.org
+	Passage_Src: https://ojs.aaai.org/index.php/AAAI/article/view/29464
+  6:
+	Cited_By_Passage: Hgprompt: Bridging homogeneous and heterogeneous graphs for few-shot prompt learning
+	Cited_By_Author: X Yu, Y Fang, Z Liu, X Zhang
+	Cited_By_Journal: Proceedings of the AAAI Conference on …, 2024 - ojs.aaai.org
+	Passage_Src: https://ojs.aaai.org/index.php/AAAI/article/view/29596
+  7:
+	Cited_By_Passage: Hierarchically contrastive hard sample mining for graph self-supervised pretraining
+	Cited_By_Author: W Tu, S Zhou, X Liu, C Ge, Z Cai…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10223441/
+  8:
+	Cited_By_Passage: Contrastive learning for signed bipartite graphs
+	Cited_By_Author: Z Zhang, J Liu, K Zhao, S Yang, X Zheng…
+	Cited_By_Journal: Proceedings of the 46th …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3539618.3591655
+  9:
+	Cited_By_Passage: A non-parametric graph clustering framework for multi-view data
+	Cited_By_Author: S Yu, S Wang, Z Dong, W Tu, S Liu, Z Lv, P Li…
+	Cited_By_Journal: Proceedings of the …, 2024 - ojs.aaai.org
+	Passage_Src: https://ojs.aaai.org/index.php/AAAI/article/view/29594
+  10:
+	Cited_By_Passage: Rare: Robust masked graph autoencoder
+	Cited_By_Author: W Tu, Q Liao, S Zhou, X Peng, C Ma…
+	Cited_By_Journal: … on Knowledge and …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10328443/
+  11:
+	Cited_By_Passage: Higpt: Heterogeneous graph language model
+	Cited_By_Author: J Tang, Y Yang, W Wei, L Shi, L Xia, D Yin…
+	Cited_By_Journal: arXiv preprint arXiv …, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2402.16024
+  12:
+	Cited_By_Passage: Semantic-aware node synthesis for imbalanced heterogeneous information networks
+	Cited_By_Author: X Gao, W Zhang, T Chen, J Yu, HQV Nguyen…
+	Cited_By_Journal: Proceedings of the 32nd …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3583780.3615055
+  13:
+	Cited_By_Passage: Hetgpt: Harnessing the power of prompt tuning in pre-trained heterogeneous graph neural networks
+	Cited_By_Author: Y Ma, N Yan, J Li, M Mortazavi…
+	Cited_By_Journal: Proceedings of the ACM on …, 2024 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3589334.3645685
+  14:
+	Cited_By_Passage: Bgae: Auto-encoding multi-view bipartite graph clustering
+	Cited_By_Author: L Li, Y Pan, J Liu, Y Liu, X Liu, K Li…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10423800/
+  15:
+	Cited_By_Passage: Pseudo contrastive learning for graph-based semi-supervised learning
+	Cited_By_Author: W Lu, Z Guan, W Zhao, Y Yang, Y Lv, L Xing…
+	Cited_By_Journal: arXiv preprint arXiv …, 2023 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2302.09532
+  16:
+	Cited_By_Passage: Node classification oriented Adaptive Multichannel Heterogeneous Graph Neural Network
+	Cited_By_Author: Y Li, C Jian, G Zang, C Song, X Yuan
+	Cited_By_Journal: Knowledge-Based Systems, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705124002533
+  17:
+	Cited_By_Passage: Revisiting initializing then refining: an incomplete and missing graph imputation network
+	Cited_By_Author: W Tu, B Xiao, X Liu, S Zhou, Z Cai…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10398247/
+  18:
+	Cited_By_Passage: Hybrid-attention mechanism based heterogeneous graph representation learning
+	Cited_By_Author: X Wang, W Deng, Z Meng, D Chen
+	Cited_By_Journal: Expert Systems with Applications, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0957417424008297
+  19:
+	Cited_By_Passage: Challenges in Pre-Training Graph Neural Networks for Context-Based Fake News Detection: An Evaluation of Current Strategies and Resource Limitations
+	Cited_By_Author: G Donabauer, U Kruschwitz
+	Cited_By_Journal: arXiv preprint arXiv:2402.18179, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2402.18179
+  20:
+	Cited_By_Passage: A Survey on Self-Supervised Pre-Training of Graph Foundation Models: A Knowledge-Based Perspective
+	Cited_By_Author: Z Zhao, Y Li, Y Zou, R Li, R Zhang
+	Cited_By_Journal: arXiv preprint arXiv:2403.16137, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2403.16137
+  21:
+	Cited_By_Passage: Deep clustering for data cleaning and integration
+	Cited_By_Author: HT Rauf, A Freitas, NW Paton
+	Cited_By_Journal: arXiv preprint arXiv:2305.13494, 2023 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2305.13494
+  22:
+	Cited_By_Passage: Robust graph neural networks with Dirichlet regularization and residual connection
+	Cited_By_Author: K Yao, Z Du, M Li, F Cao, J Liang
+	Cited_By_Journal: International Journal of Machine …, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s13042-024-02117-3
+  23:
+	Cited_By_Passage: HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning
+	Cited_By_Author: Q Zhu, L Zhang, Q Xu, K Liu, C Long…
+	Cited_By_Journal: arXiv preprint arXiv …, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2407.13158
+  24:
+	Cited_By_Passage: Self-Supervised Pretraining for Heterogeneous Hypergraph Neural Networks
+	Cited_By_Author: A Abubaker, T Maehara, M Nimishakavi…
+	Cited_By_Journal: arXiv preprint arXiv …, 2023 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2311.11368
+  25:
+	Cited_By_Passage: TableDC: Deep Clustering for Tabular Data
+	Cited_By_Author: HT Rauf, A Freitas, NW Paton
+	Cited_By_Journal: arXiv preprint arXiv:2405.17723, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2405.17723
+  26:
+	Cited_By_Passage: HGT: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding
+	Cited_By_Author: R Jin, Y Li, G Qi, N Hu, YF Li, J Chen, J Wang…
+	Cited_By_Journal: arXiv preprint arXiv …, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2403.19723
+  27:
+	Cited_By_Passage: Meta-path and hypergraph fused distillation framework for heterogeneous information networks embedding
+	Cited_By_Author: B Yu, C Xie, H Cai, H Duan, P Tang
+	Cited_By_Journal: Information Sciences, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0020025524003669
+  28:
+	Cited_By_Passage: Modeling Noncommutative Composition of Relations for Knowledge Graph Embedding
+	Cited_By_Author: C Xiang, C Fu, D Cai, X He
+	Cited_By_Journal: Electronics, 2023 - mdpi.com
+	Passage_Src: https://www.mdpi.com/2079-9292/12/6/1348
+  29:
+	Cited_By_Passage: Sgcl: Semi-Supervised Graph Contrastive Learning with Confidence Propagation Algorithm for Node Classification
+	Cited_By_Author: W Jiang, Y Bai
+	Cited_By_Journal: Available at SSRN 4671157 - papers.ssrn.com
+	Passage_Src: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671157
+  30:
+	Cited_By_Passage: Heterogeneous Graph Transformer with Poly-Tokenization
+	Cited_By_Author: Z Lu, Y Fang, C Yang, C Shi
+	Cited_By_Journal: smufang.github.io
+	Passage_Src: https://smufang.github.io/paper/IJCAI24_PHGT.pdf
+  31:
+	Cited_By_Passage: Robust Self-supervised Learning in Heterogeneous Graph Based on Feature-Topology Balancing
+	Cited_By_Author: J Ahn, BG Kang, H Han, S Yoon
+	Cited_By_Journal: openreview.net
+	Passage_Src: https://openreview.net/forum?id=1JiIKjcwrr
+Graph substructure assembling network with soft sequence and context attention:13
+  1:
+	Cited_By_Passage: A comprehensive survey on multi-view clustering
+	Cited_By_Author: U Fang, M Li, J Li, L Gao, T Jia…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10108535/
+  2:
+	Cited_By_Passage: Rare: Robust masked graph autoencoder
+	Cited_By_Author: W Tu, Q Liao, S Zhou, X Peng, C Ma…
+	Cited_By_Journal: … on Knowledge and …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10328443/
+  3:
+	Cited_By_Passage: Motif-driven contrastive learning of graph representations
+	Cited_By_Author: S Zhang, Z Hu, A Subramonian…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10429945/
+  4:
+	Cited_By_Passage: Towards explaining graph neural networks via preserving prediction ranking and structural dependency
+	Cited_By_Author: Y Zhang, WK Cheung, Q Liu, G Wang, L Yang…
+	Cited_By_Journal: Information Processing & …, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0306457323003084
+  5:
+	Cited_By_Passage: Revisiting initializing then refining: an incomplete and missing graph imputation network
+	Cited_By_Author: W Tu, B Xiao, X Liu, S Zhou, Z Cai…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10398247/
+  6:
+	Cited_By_Passage: Motif graph neural network
+	Cited_By_Author: X Chen, R Cai, Y Fang, M Wu, Z Li…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10154572/
+  7:
+	Cited_By_Passage: On the substructure countability of graph neural networks
+	Cited_By_Author: W Xia, Y Li, S Li
+	Cited_By_Journal: IEEE Transactions on Knowledge and Data …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9961144/
+  8:
+	Cited_By_Passage: SkipNode: On alleviating performance degradation for deep graph convolutional networks
+	Cited_By_Author: W Lu, Y Zhan, B Lin, Z Guan, L Liu, B Yu…
+	Cited_By_Journal: … on Knowledge and …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10497904/
+  9:
+	Cited_By_Passage: Learning Graph Attentions via Replicator Dynamics
+	Cited_By_Author: B Jiang, Z Zhang, S Ge, B Wang…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10508103/
+  10:
+	Cited_By_Passage: AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation
+	Cited_By_Author: W Lu, Z Guan, W Zhao, Y Yang
+	Cited_By_Journal: arXiv preprint arXiv:2405.14307, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2405.14307
+  11:
+	Cited_By_Passage: Deep contrastive multi-view clustering with doubly enhanced commonality
+	Cited_By_Author: Z Yang, C Zhu, Z Li
+	Cited_By_Journal: Multimedia Systems, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s00530-024-01400-1
+  12:
+	Cited_By_Passage: Modeling Noncommutative Composition of Relations for Knowledge Graph Embedding
+	Cited_By_Author: C Xiang, C Fu, D Cai, X He
+	Cited_By_Journal: Electronics, 2023 - mdpi.com
+	Passage_Src: https://www.mdpi.com/2079-9292/12/6/1348
+  13:
+	Cited_By_Passage: Smart agriculture: Advancements on plant disease detection with big data and deep learning
+	Cited_By_Author: Y Fang
+	Cited_By_Journal: 2022 - dro.deakin.edu.au
+	Passage_Src: https://dro.deakin.edu.au/articles/thesis/Smart_agriculture_Advancements_on_plant_disease_detection_with_big_data_and_deep_learning/24769245/1/files/43531734.pdf
+Skipnode: On alleviating over-smoothing for deep graph convolutional networks:13
+  1:
+	Cited_By_Passage: NAGphormer: A tokenized graph transformer for node classification in large graphs
+	Cited_By_Author: J Chen, K Gao, G Li, K He
+	Cited_By_Journal: arXiv preprint arXiv:2206.04910, 2022 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2206.04910
+  2:
+	Cited_By_Passage: Nodemixup: Tackling under-reaching for graph neural networks
+	Cited_By_Author: W Lu, Z Guan, W Zhao, Y Yang, L Jin
+	Cited_By_Journal: Proceedings of the AAAI …, 2024 - ojs.aaai.org
+	Passage_Src: https://ojs.aaai.org/index.php/AAAI/article/view/29328
+  3:
+	Cited_By_Passage: Graph augmentation learning
+	Cited_By_Author: S Yu, H Huang, MN Dao, F Xia
+	Cited_By_Journal: Companion Proceedings of the Web …, 2022 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3487553.3524718
+  4:
+	Cited_By_Passage: Criteria tell you more than ratings: Criteria preference-aware light graph convolution for effective multi-criteria recommendation
+	Cited_By_Author: JD Park, S Li, X Cao, WY Shin
+	Cited_By_Journal: Proceedings of the 29th ACM SIGKDD …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3580305.3599292
+  5:
+	Cited_By_Passage: Guided malware sample analysis based on graph neural networks
+	Cited_By_Author: YH Chen, SC Lin, SC Huang, CL Lei…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10145856/
+  6:
+	Cited_By_Passage: Tokenized Graph Transformer with Neighborhood Augmentation for Node Classification in Large Graphs
+	Cited_By_Author: J Chen, C Liu, K Gao, G Li, K He
+	Cited_By_Journal: arXiv preprint arXiv:2305.12677, 2023 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2305.12677
+  7:
+	Cited_By_Passage: Universal deep GNNs: rethinking residual connection in GNNs from a path decomposition perspective for preventing the over-smoothing
+	Cited_By_Author: J Chen, W Liu, Z Huang, J Gao, J Zhang…
+	Cited_By_Journal: arXiv preprint arXiv …, 2022 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2205.15127
+  8:
+	Cited_By_Passage: Multi-constraints in deep graph convolutional networks with initial residual
+	Cited_By_Author: H Chen, Y Li
+	Cited_By_Journal: Applied Intelligence, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10489-022-04222-8
+  9:
+	Cited_By_Passage: Principles for Initialization and Architecture Selection in Graph Neural Networks with ReLU Activations
+	Cited_By_Author: G DeZoort, B Hanin
+	Cited_By_Journal: arXiv preprint arXiv:2306.11668, 2023 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2306.11668
+  10:
+	Cited_By_Passage: Node-Smoothness Based Adaptive Initial Residual Deep Graph Convolutional Network
+	Cited_By_Author: H Chen, L Zang, Y Li
+	Cited_By_Journal: IEEE Internet of Things Journal, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10496472/
+  11:
+	Cited_By_Passage: Deep graph convolutional networks based on contrastive learning: Alleviating over-smoothing phenomenon
+	Cited_By_Author: R Jin, Y Zhan, R Zhang
+	Cited_By_Journal: CAAI International Conference on Artificial …, 2022 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-3-031-20503-3_12
+  12:
+	Cited_By_Passage: Enhancing Deep Graph Neural Networks via Improving Signal Propagation
+	Cited_By_Author: S Wang, Y Chen, Y Zhang, B Li, T Ding, R Sun
+	Cited_By_Journal: openreview.net
+	Passage_Src: https://openreview.net/forum?id=GIVprkGmp0
+  13:
+	Cited_By_Passage: Breaking the Curse of Depth in Graph Convolutional Networks via Refined Initialization Strategy
+	Cited_By_Author: S Wang, Y Chen, Y Zhang, T Ding, R Sun
+	Cited_By_Journal: openreview.net
+	Passage_Src: https://openreview.net/forum?id=WW2HN95G5F
+Progressive deep multi-view comprehensive representation learning:6
+Interpretable and Efficient Heterogeneous Graph Convolutional Network:196
+Interpretable and Efficient Heterogeneous Graph Convolutional Network:196
+  1:
+	Cited_By_Passage: A comprehensive survey on multi-view clustering
+	Cited_By_Author: U Fang, M Li, J Li, L Gao, T Jia…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10108535/
+  2:
+	Cited_By_Passage: A comprehensive overview of knowledge graph completion
+	Cited_By_Author: T Shen, F Zhang, J Cheng
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S095070512200805X
+  3:
+	Cited_By_Passage: A survey on deep learning based knowledge tracing
+	Cited_By_Author: X Song, J Li, T Cai, S Yang, T Yang, C Liu
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011297
+  4:
+	Cited_By_Passage: Anomal-E: A self-supervised network intrusion detection system based on graph neural networks
+	Cited_By_Author: E Caville, WW Lo, S Layeghy, M Portmann
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011236
+  5:
+	Cited_By_Passage: Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data
+	Cited_By_Author: X Kong, W Zhou, G Shen, W Zhang, N Liu…
+	Cited_By_Journal: Knowledge-Based …, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122012849
+  6:
+	Cited_By_Passage: Self-supervised heterogeneous graph pre-training based on structural clustering
+	Cited_By_Author: Y Yang, Z Guan, Z Wang, W Zhao…
+	Cited_By_Journal: Advances in …, 2022 - proceedings.neurips.cc
+	Passage_Src: https://proceedings.neurips.cc/paper_files/paper/2022/hash/6c7297baffe5c85ea1d9e1ccb1222ab8-Abstract-Conference.html
+  7:
+	Cited_By_Passage: Collaborative representation learning for nodes and relations via heterogeneous graph neural network
+	Cited_By_Author: W Li, L Ni, J Wang, C Wang
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122008474
+  8:
+	Cited_By_Passage: Robust cross-network node classification via constrained graph mutual information
+	Cited_By_Author: S Yang, B Cai, T Cai, X Song, J Jiang, B Li…
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122009455
+  9:
+	Cited_By_Passage: A survey on graph representation learning methods
+	Cited_By_Author: S Khoshraftar, A An
+	Cited_By_Journal: ACM Transactions on Intelligent Systems and …, 2024 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3633518
+  10:
+	Cited_By_Passage: A multi-type transferable method for missing link prediction in heterogeneous social networks
+	Cited_By_Author: H Wang, Z Cui, R Liu, L Fang…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10004751/
+  11:
+	Cited_By_Passage: Building and exploiting spatial–temporal knowledge graph for next POI recommendation
+	Cited_By_Author: W Chen, H Wan, S Guo, H Huang, S Zheng, J Li…
+	Cited_By_Journal: Knowledge-Based …, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122010449
+  12:
+	Cited_By_Passage: Robust image clustering via context-aware contrastive graph learning
+	Cited_By_Author: U Fang, J Li, X Lu, A Mian, Z Gu
+	Cited_By_Journal: Pattern Recognition, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0031320323000419
+  13:
+	Cited_By_Passage: Transo: a knowledge-driven representation learning method with ontology information constraints
+	Cited_By_Author: Z Li, X Liu, X Wang, P Liu, Y Shen
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01016-3
+  14:
+	Cited_By_Passage: Heterogeneous graph neural networks analysis: a survey of techniques, evaluations and applications
+	Cited_By_Author: R Bing, G Yuan, M Zhu, F Meng, H Ma…
+	Cited_By_Journal: Artificial Intelligence …, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10462-022-10375-2
+  15:
+	Cited_By_Passage: An attention-based deep learning method for solving the cold-start and sparsity issues of recommender systems
+	Cited_By_Author: N Heidari, P Moradi, A Koochari
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122009339
+  16:
+	Cited_By_Passage: Causal inference for knowledge graph based recommendation
+	Cited_By_Author: Y Wei, X Wang, L Nie, S Li, D Wang…
+	Cited_By_Journal: IEEE Transactions on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9996555/
+  17:
+	Cited_By_Passage: A unified framework for cross-domain and cross-system recommendations
+	Cited_By_Author: F Zhu, Y Wang, J Zhou, C Chen, L Li…
+	Cited_By_Journal: IEEE Transactions on …, 2021 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9514447/
+  18:
+	Cited_By_Passage: SR-HGN: Semantic-and relation-aware heterogeneous graph neural network
+	Cited_By_Author: Z Wang, D Yu, Q Li, S Shen, S Yao
+	Cited_By_Journal: Expert Systems with Applications, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0957417423004840
+  19:
+	Cited_By_Passage: A knowledge graph completion model based on contrastive learning and relation enhancement method
+	Cited_By_Author: LY Li, X Zhang, YB Ma, C Gao, J Wang, Y Yu…
+	Cited_By_Journal: Knowledge-Based …, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122009820
+  20:
+	Cited_By_Passage: Gomic: Multi-view image clustering via self-supervised contrastive heterogeneous graph co-learning
+	Cited_By_Author: U Fang, J Li, N Akhtar, M Li, Y Jia
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01110-6
+  21:
+	Cited_By_Passage: Dynamic graph transformer for 3D object detection
+	Cited_By_Author: S Ren, X Pan, W Zhao, B Nie, B Han
+	Cited_By_Journal: Knowledge-Based Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011819
+  22:
+	Cited_By_Passage: Step by step: A hierarchical framework for multi-hop knowledge graph reasoning with reinforcement learning
+	Cited_By_Author: A Zhu, D Ouyang, S Liang, J Shao
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122004026
+  23:
+	Cited_By_Passage: FGC: GCN-based federated learning approach for trust industrial service recommendation
+	Cited_By_Author: Y Yin, Y Li, H Gao, T Liang…
+	Cited_By_Journal: IEEE Transactions on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9918030/
+  24:
+	Cited_By_Passage: Knowledge graph embedding by relational and entity rotation
+	Cited_By_Author: X Huang, J Tang, Z Tan, W Zeng, J Wang…
+	Cited_By_Journal: Knowledge-Based …, 2021 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705121005724
+  25:
+	Cited_By_Passage: TreeCN: time series prediction with the tree convolutional network for traffic prediction
+	Cited_By_Author: Z Lv, Z Cheng, J Li, Z Xu, Z Yang
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10299575/
+  26:
+	Cited_By_Passage: Inclusivity induced adaptive graph learning for multi-view clustering
+	Cited_By_Author: X Zou, C Tang, X Zheng, K Sun, W Zhang…
+	Cited_By_Journal: Knowledge-Based …, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705123001740
+  27:
+	Cited_By_Passage: HS-GCN: Hamming spatial graph convolutional networks for recommendation
+	Cited_By_Author: H Liu, Y Wei, J Yin, L Nie
+	Cited_By_Journal: IEEE Transactions on Knowledge …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9732648/
+  28:
+	Cited_By_Passage: A key review on graph data science: The power of graphs in scientific studies
+	Cited_By_Author: R Das, M Soylu
+	Cited_By_Journal: Chemometrics and Intelligent Laboratory Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0169743923001466
+  29:
+	Cited_By_Passage: Emerging trends in federated learning: From model fusion to federated x learning
+	Cited_By_Author: S Ji, Y Tan, T Saravirta, Z Yang, Y Liu…
+	Cited_By_Journal: International Journal of …, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s13042-024-02119-1
+  30:
+	Cited_By_Passage: G3SR: Global Graph Guided Session-Based Recommendation
+	Cited_By_Author: ZH Deng, CD Wang, L Huang, JH Lai…
+	Cited_By_Journal: IEEE transactions on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9741079/
+  31:
+	Cited_By_Passage: Multi-task learning with graph attention networks for multi-domain task-oriented dialogue systems
+	Cited_By_Author: M Zhao, L Wang, Z Jiang, R Li, X Lu, Z Hu
+	Cited_By_Journal: Knowledge-Based Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011625
+  32:
+	Cited_By_Passage: Rare: Robust masked graph autoencoder
+	Cited_By_Author: W Tu, Q Liao, S Zhou, X Peng, C Ma…
+	Cited_By_Journal: … on Knowledge and …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10328443/
+  33:
+	Cited_By_Passage: CGSNet: Contrastive graph self-attention network for session-based recommendation
+	Cited_By_Author: F Wang, X Lu, L Lyu
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122006438
+  34:
+	Cited_By_Passage: A cross-attention BERT-based framework for continuous sign language recognition
+	Cited_By_Author: Z Zhou, VWL Tam, EY Lam
+	Cited_By_Journal: IEEE Signal Processing Letters, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9860060/
+  35:
+	Cited_By_Passage: Revisiting multi-view learning: A perspective of implicitly heterogeneous Graph Convolutional Network
+	Cited_By_Author: Y Zou, Z Fang, Z Wu, C Zheng, S Wang
+	Cited_By_Journal: Neural Networks, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0893608023006184
+  36:
+	Cited_By_Passage: Higher order heterogeneous graph neural network based on node attribute enhancement
+	Cited_By_Author: C Li, J Fu, Y Yan, Z Zhao, Q Zeng
+	Cited_By_Journal: Expert Systems with Applications, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0957417423029068
+  37:
+	Cited_By_Passage: Semantic-aware node synthesis for imbalanced heterogeneous information networks
+	Cited_By_Author: X Gao, W Zhang, T Chen, J Yu, HQV Nguyen…
+	Cited_By_Journal: Proceedings of the 32nd …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3583780.3615055
+  38:
+	Cited_By_Passage: Self-supervised contrastive learning on heterogeneous graphs with mutual constraints of structure and feature
+	Cited_By_Author: Q Zhang, Z Zhao, H Zhou, X Li, C Li
+	Cited_By_Journal: Information Sciences, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0020025523006114
+  39:
+	Cited_By_Passage: Smgcl: Semi-supervised multi-view graph contrastive learning
+	Cited_By_Author: H Zhou, M Gong, S Wang, Y Gao, Z Zhao
+	Cited_By_Journal: Knowledge-Based Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122012163
+  40:
+	Cited_By_Passage: Reinforcement recommendation reasoning through knowledge graphs for explanation path quality
+	Cited_By_Author: G Balloccu, L Boratto, G Fenu, M Marras
+	Cited_By_Journal: Knowledge-Based Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011947
+  41:
+	Cited_By_Passage: KGVQL: A knowledge graph visual query language with bidirectional transformations
+	Cited_By_Author: P Liu, X Wang, Q Fu, Y Yang, YF Li, Q Zhang
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122004154
+  42:
+	Cited_By_Passage: Osgnn: Original graph and subgraph aggregated graph neural network
+	Cited_By_Author: Y Yan, C Li, Y Yu, X Li, Z Zhao
+	Cited_By_Journal: Expert Systems with Applications, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0957417423006176
+  43:
+	Cited_By_Passage: Explainable meta-path based recommender systems
+	Cited_By_Author: T Markchom, H Liang, J Ferryman
+	Cited_By_Journal: ACM Transactions on …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3625828
+  44:
+	Cited_By_Passage: A meta-learning approach for training explainable graph neural networks
+	Cited_By_Author: I Spinelli, S Scardapane…
+	Cited_By_Journal: IEEE Transactions on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9772740/
+  45:
+	Cited_By_Passage: MECCH: metapath context convolution-based heterogeneous graph neural networks
+	Cited_By_Author: X Fu, I King
+	Cited_By_Journal: Neural Networks, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0893608023006548
+  46:
+	Cited_By_Passage: HetReGAT-FC: Heterogeneous residual graph attention network via feature completion
+	Cited_By_Author: C Li, Y Yan, J Fu, Z Zhao, Q Zeng
+	Cited_By_Journal: Information Sciences, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0020025523003316
+  47:
+	Cited_By_Passage: A novel feature-based framework enabling multi-type DDoS attacks detection
+	Cited_By_Author: L Zhou, Y Zhu, Y Xiang, T Zong
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01040-3
+  48:
+	Cited_By_Passage: Intra-and inter-association attention network-enhanced policy learning for social group recommendation
+	Cited_By_Author: Y Wang, Z Dai, J Cao, J Wu, H Tao, G Zhu
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01035-0
+  49:
+	Cited_By_Passage: Structured anchor-inferred graph learning for universal incomplete multi-view clustering
+	Cited_By_Author: W He, Z Zhang, Y Chen, J Wen
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01012-7
+  50:
+	Cited_By_Passage: Curriculum Learning Empowered Reinforcement Learning for Graph-based Portfolio Management: Performance Optimization and Comprehensive Analysis
+	Cited_By_Author: AA Salama
+	Cited_By_Journal: Neural Networks, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0893608024004611
+  51:
+	Cited_By_Passage: Stochastic configuration networks for multi-dimensional integral evaluation
+	Cited_By_Author: S Li, X Huang, D Wang
+	Cited_By_Journal: Information Sciences, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0020025522003292
+  52:
+	Cited_By_Passage: Scalable and explainable visually-aware recommender systems
+	Cited_By_Author: T Markchom, H Liang, J Ferryman
+	Cited_By_Journal: Knowledge-Based Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705123000084
+  53:
+	Cited_By_Passage: Towards explainable motion prediction using heterogeneous graph representations
+	Cited_By_Author: SC Limeros, S Majchrowska, J Johnander…
+	Cited_By_Journal: … Research Part C …, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0968090X23003959
+  54:
+	Cited_By_Passage: Memory-augmented meta-learning framework for session-based target behavior recommendation
+	Cited_By_Author: B Yu, X Li, J Fang, C Tai, W Cheng, J Xu
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01036-z
+  55:
+	Cited_By_Passage: Staged query graph generation based on answer type for question answering over knowledge base
+	Cited_By_Author: H Chen, F Ye, Y Fan, Z He, Y Jing, K Zhang…
+	Cited_By_Journal: Knowledge-Based …, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122007948
+  56:
+	Cited_By_Passage: Towards fine-grained explainability for heterogeneous graph neural network
+	Cited_By_Author: T Li, J Deng, Y Shen, L Qiu, H Yongxiang…
+	Cited_By_Journal: Proceedings of the AAAI …, 2023 - ojs.aaai.org
+	Passage_Src: https://ojs.aaai.org/index.php/AAAI/article/view/26040
+  57:
+	Cited_By_Passage: Heterogeneous graph neural network with multi-view representation learning
+	Cited_By_Author: Z Shao, Y Xu, W Wei, F Wang…
+	Cited_By_Journal: IEEE Transactions on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9961953/
+  58:
+	Cited_By_Passage: A spatial–temporal graph neural network framework for automated software bug triaging
+	Cited_By_Author: H Wu, Y Ma, Z Xiang, C Yang, K He
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122001083
+  59:
+	Cited_By_Passage: Knowledge graph completion using topological correlation and multi-perspective independence
+	Cited_By_Author: M Yu, Q Zhang, J Yu, M Zhao, X Li, D Jin…
+	Cited_By_Journal: Knowledge-Based …, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011248
+  60:
+	Cited_By_Passage: Pseudo contrastive learning for graph-based semi-supervised learning
+	Cited_By_Author: W Lu, Z Guan, W Zhao, Y Yang, Y Lv, L Xing…
+	Cited_By_Journal: arXiv preprint arXiv …, 2023 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2302.09532
+  61:
+	Cited_By_Passage: Zero-shot transfer learning within a heterogeneous graph via knowledge transfer networks
+	Cited_By_Author: M Yoon, J Palowitch, D Zelle, Z Hu…
+	Cited_By_Journal: Advances in …, 2022 - proceedings.neurips.cc
+	Passage_Src: https://proceedings.neurips.cc/paper_files/paper/2022/hash/af2bb2b2280d36f8842e440b4e275152-Abstract-Conference.html
+  62:
+	Cited_By_Passage: Hierarchical bottleneck for heterogeneous graph representation
+	Cited_By_Author: Y He, L Meng, J Ma, Y Zhang, Q Wu, W Ding…
+	Cited_By_Journal: Information Sciences, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0020025524003359
+  63:
+	Cited_By_Passage: Individual diversity preference aware neural collaborative filtering
+	Cited_By_Author: G Liang, J Wen, W Zhou
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122008760
+  64:
+	Cited_By_Passage: Graph pooling via Dual-view Multi-level Infomax
+	Cited_By_Author: Q Zhao, H Zhang, M He, W Li, C Kang, M Han
+	Cited_By_Journal: Knowledge-Based Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011856
+  65:
+	Cited_By_Passage: EPT-GCN: Edge propagation-based time-aware graph convolution network for POI recommendation
+	Cited_By_Author: F Mo, H Yamana
+	Cited_By_Journal: Neurocomputing, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0925231223003958
+  66:
+	Cited_By_Passage: M2GCN: multi-modal graph convolutional network for modeling polypharmacy side effects
+	Cited_By_Author: Q Liu, E Yao, C Liu, X Zhou, Y Li, M Xu
+	Cited_By_Journal: Applied Intelligence, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10489-022-03839-z
+  67:
+	Cited_By_Passage: Graph-grounded goal planning for conversational recommendation
+	Cited_By_Author: Z Liu, D Zhou, H Liu, H Wang, ZY Niu…
+	Cited_By_Journal: … on Knowledge and …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9699426/
+  68:
+	Cited_By_Passage: Anchor link prediction across social networks based on multiple consistency
+	Cited_By_Author: Y Yang, L Wang, D Liu
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122010322
+  69:
+	Cited_By_Passage: Towards explaining graph neural networks via preserving prediction ranking and structural dependency
+	Cited_By_Author: Y Zhang, WK Cheung, Q Liu, G Wang, L Yang…
+	Cited_By_Journal: Information Processing & …, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0306457323003084
+  70:
+	Cited_By_Passage: Short text topic learning using heterogeneous information network
+	Cited_By_Author: Q Wang, C Zhu, Y Zhang, H Zhong…
+	Cited_By_Journal: … on Knowledge and …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9699033/
+  71:
+	Cited_By_Passage: Attention-based hierarchical denoised deep clustering network
+	Cited_By_Author: Y Dong, Z Wang, J Du, W Fang, L Li
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01007-4
+  72:
+	Cited_By_Passage: Graphrare: Reinforcement learning enhanced graph neural network with relative entropy
+	Cited_By_Author: T Peng, W Wu, H Yuan, Z Bao, Z Pengru…
+	Cited_By_Journal: 2024 IEEE 40th …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10597829/
+  73:
+	Cited_By_Passage: Combining intra-risk and contagion risk for enterprise bankruptcy prediction using graph neural networks
+	Cited_By_Author: S Wei, J Lv, Y Guo, Q Yang, X Chen, Y Zhao, Q Li…
+	Cited_By_Journal: Information …, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0020025523016675
+  74:
+	Cited_By_Passage: A multi-attribute decision making approach based on information extraction for real estate buyer profiling
+	Cited_By_Author: L Zhu, M Xu, Y Xu, Z Zhu, Y Zhao, X Kong
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01010-9
+  75:
+	Cited_By_Passage: Semi-supervised learning with network embedding on ambient rf signals for geofencing services
+	Cited_By_Author: W Zhuo, KH Chiu, J Chen, J Tan…
+	Cited_By_Journal: 2023 IEEE 39th …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10184832/
+  76:
+	Cited_By_Passage: Distributed dominance graph-based neural multi-objective evolutionary strategy for sponsored search real-time bidding
+	Cited_By_Author: Y Yang, H Wu, Z Guan, J Li, W Zhao, C Xu, H Li…
+	Cited_By_Journal: Knowledge-Based …, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705123006718
+  77:
+	Cited_By_Passage: Seq-HGNN: learning sequential node representation on heterogeneous graph
+	Cited_By_Author: C Du, K Yao, H Zhu, D Wang, F Zhuang…
+	Cited_By_Journal: Proceedings of the 46th …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3539618.3591765
+  78:
+	Cited_By_Passage: Optimizing graph neural network with multiaspect Hilbert–Schmidt independence criterion
+	Cited_By_Author: Y He, D Yan, W Xie, Y Zhang, Q He…
+	Cited_By_Journal: IEEE Transactions on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9772710/
+  79:
+	Cited_By_Passage: Contrastive learning with heterogeneous graph attention networks on short text classification
+	Cited_By_Author: Z Sun, A Harit, AI Cristea, J Yu, L Shi…
+	Cited_By_Journal: … Joint Conference on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9892257/
+  80:
+	Cited_By_Passage: Adaptive online learning for vulnerability exploitation time prediction
+	Cited_By_Author: J Yin, MJ Tang, J Cao, H Wang, M You…
+	Cited_By_Journal: Web Information Systems …, 2020 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-3-030-62008-0_18
+  81:
+	Cited_By_Passage: Revisiting initializing then refining: an incomplete and missing graph imputation network
+	Cited_By_Author: W Tu, B Xiao, X Liu, S Zhou, Z Cai…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10398247/
+  82:
+	Cited_By_Passage: Graph convolutional neural networks with diverse negative samples via decomposed determinant point processes
+	Cited_By_Author: W Duan, J Xuan, M Qiao, J Lu
+	Cited_By_Journal: IEEE Transactions on Neural …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10255371/
+  83:
+	Cited_By_Passage: A bilateral heterogeneous graph model for interpretable job recommendation considering both reciprocity and competition
+	Cited_By_Author: X Shi, Q Wei, G Chen
+	Cited_By_Journal: Frontiers of Engineering Management, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s42524-023-0280-2
+  84:
+	Cited_By_Passage: Heterogeneous graph knowledge distillation neural network incorporating multiple relations and cross-semantic interactions
+	Cited_By_Author: J Fu, C Li, Z Zhao, Q Zeng
+	Cited_By_Journal: Information Sciences, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S002002552301589X
+  85:
+	Cited_By_Passage: Deep link-prediction based on the local structure of bipartite networks
+	Cited_By_Author: H Lv, B Zhang, S Hu, Z Xu
+	Cited_By_Journal: Entropy, 2022 - mdpi.com
+	Passage_Src: https://www.mdpi.com/1099-4300/24/5/610
+  86:
+	Cited_By_Passage: Ncgnn: Node-level capsule graph neural network for semisupervised classification
+	Cited_By_Author: R Yang, W Dai, C Li, J Zou…
+	Cited_By_Journal: IEEE Transactions on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9792205/
+  87:
+	Cited_By_Passage: Interpreting sarcasm on social media using attention-based neural networks
+	Cited_By_Author: Z Keivanlou-Shahrestanaki, M Kahani…
+	Cited_By_Journal: Knowledge-Based …, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S095070512201070X
+  88:
+	Cited_By_Passage: Predicting financial distress using multimodal data: An attentive and regularized deep learning method
+	Cited_By_Author: W Che, Z Wang, C Jiang, MZ Abedin
+	Cited_By_Journal: Information Processing & …, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0306457324000633
+  89:
+	Cited_By_Passage: Exploring attention mechanism for graph similarity learning
+	Cited_By_Author: W Tan, X Gao, Y Li, G Wen, P Cao, J Yang, W Li…
+	Cited_By_Journal: Knowledge-Based …, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705123004896
+  90:
+	Cited_By_Passage: HetGNN-SF: Self-supervised learning on heterogeneous graph neural network via semantic strength and feature similarity
+	Cited_By_Author: C Li, X Liu, Y Yan, Z Zhao, Q Zeng
+	Cited_By_Journal: Applied Intelligence, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10489-023-04612-6
+  91:
+	Cited_By_Passage: Structure-aware attributed heterogeneous network embedding
+	Cited_By_Author: H Wei, G Xiong, Q Wei, W Cao, X Li
+	Cited_By_Journal: Knowledge and Information Systems, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10115-022-01810-5
+  92:
+	Cited_By_Passage: SketchNE: Embedding billion-scale networks accurately in one hour
+	Cited_By_Author: Y Xie, Y Dong, J Qiu, W Yu, X Feng…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10057080/
+  93:
+	Cited_By_Passage: Label-Dependent Graph Neural Network
+	Cited_By_Author: Y He, Y Zhang, F Yang, D Yan…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10253751/
+  94:
+	Cited_By_Passage: Few-shot semantic relation prediction across heterogeneous graphs
+	Cited_By_Author: P Ding, Y Wang, G Liu, X Zhou
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10061369/
+  95:
+	Cited_By_Passage: GCN-WP–Semi-supervised graph convolutional networks for win prediction in esports
+	Cited_By_Author: AJ Bisberg, E Ferrara
+	Cited_By_Journal: 2022 IEEE Conference on Games (CoG), 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9893671/
+  96:
+	Cited_By_Passage: NAGNE: node-to-attribute generation network embedding for heterogeneous network
+	Cited_By_Author: Z Zhang, H Xu, Y Li, Z Zhai, Y Ding
+	Cited_By_Journal: Applied Sciences, 2024 - mdpi.com
+	Passage_Src: https://www.mdpi.com/2076-3417/14/3/1053
+  97:
+	Cited_By_Passage: Optimization of maintenance personnel dispatching strategy in smart grid
+	Cited_By_Author: Y Chen, N Zhang, J Yan, G Zhu, G Min
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01019-0
+  98:
+	Cited_By_Passage: Neural Combinatorial Optimization on Heterogeneous Graphs: An Application to the Picker Routing Problem in Mixed-Shelves Warehouses
+	Cited_By_Author: L Luttmann, L Xie
+	Cited_By_Journal: Proceedings of the International Conference on …, 2024 - ojs.aaai.org
+	Passage_Src: https://ojs.aaai.org/index.php/ICAPS/article/view/31494
+  99:
+	Cited_By_Passage: The most active community search in large temporal graphs
+	Cited_By_Author: L Li, Y Zhao, Y Li, F Wahab, Z Wang
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122005433
+  100:
+	Cited_By_Passage: Few-Shot Causal Representation Learning for Out-of-Distribution Generalization on Heterogeneous Graphs
+	Cited_By_Author: P Ding, Y Wang, G Liu, N Wang
+	Cited_By_Journal: arXiv preprint arXiv:2401.03597, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2401.03597
+  101:
+	Cited_By_Passage: LIFOSS: a learned index scheme for streaming scenarios
+	Cited_By_Author: T Yu, G Liu, A Liu, Z Li, L Zhao
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01021-6
+  102:
+	Cited_By_Passage: Efficient analysis of deep neural networks for vision via biologically-inspired receptive field angles: An in-depth survey
+	Cited_By_Author: Y Ma, M Yu, H Lin, C Liu, M Hu, Q Song
+	Cited_By_Journal: Information Fusion, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S1566253524003609
+  103:
+	Cited_By_Passage: Learning Bi-typed multi-relational heterogeneous graph via dual hierarchical attention networks
+	Cited_By_Author: Y Zhao, S Wei, H Du, X Chen, Q Li…
+	Cited_By_Journal: … on Knowledge and …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9954185/
+  104:
+	Cited_By_Passage: SR-HetGNN: session-based recommendation with heterogeneous graph neural network
+	Cited_By_Author: J Chen, H Li, X Zhang, F Zhang, S Wang…
+	Cited_By_Journal: … and Information Systems, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10115-023-01986-4
+  105:
+	Cited_By_Passage: Backbone-based Dynamic Spatio-Temporal Graph Neural Network for epidemic forecasting
+	Cited_By_Author: J Mao, Y Han, G Tanaka, B Wang
+	Cited_By_Journal: Knowledge-Based Systems, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705124005860
+  106:
+	Cited_By_Passage: Unsupervised Graph Transformer With Augmentation-Free Contrastive Learning
+	Cited_By_Author: H Zhao, X Yang, K Wei, C Deng…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10505804/
+  107:
+	Cited_By_Passage: GSim: a graph neural network based relevance measure for heterogeneous graphs
+	Cited_By_Author: L Luo, Y Fang, M Lu, X Cao, X Zhang…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10111040/
+  108:
+	Cited_By_Passage: McH-HGCN: multi-curvature hyperbolic heterogeneous graph convolutional network with type triplets
+	Cited_By_Author: Y Liu, B Lang
+	Cited_By_Journal: Neural Computing and Applications, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s00521-023-08473-5
+  109:
+	Cited_By_Passage: SkipNode: On alleviating performance degradation for deep graph convolutional networks
+	Cited_By_Author: W Lu, Y Zhan, B Lin, Z Guan, L Liu, B Yu…
+	Cited_By_Journal: … on Knowledge and …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10497904/
+  110:
+	Cited_By_Passage: Identifying informative tweets during a pandemic via a topic-aware neural language model
+	Cited_By_Author: W Gao, L Li, X Tao, J Zhou, J Tao
+	Cited_By_Journal: World wide web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01034-1
+  111:
+	Cited_By_Passage: A heterogeneous graph neural network with automatic discovery of effective metapaths for drug-target interaction prediction
+	Cited_By_Author: M Zhang, Y Hong, L Shen, S Xu, Y Xu, X Zhang…
+	Cited_By_Journal: Future Generation …, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0167739X24002875
+  112:
+	Cited_By_Passage: Multi-semantic alignment graph convolutional network
+	Cited_By_Author: J Qin, X Zeng, S Wu, Y Zou
+	Cited_By_Journal: Connection Science, 2022 - Taylor & Francis
+	Passage_Src: https://www.tandfonline.com/doi/abs/10.1080/09540091.2022.2115010
+  113:
+	Cited_By_Passage: Empowering vulnerability prioritization: A heterogeneous graph-driven framework for exploitability prediction
+	Cited_By_Author: J Yin, G Chen, W Hong, H Wang, J Cao…
+	Cited_By_Journal: … Conference on Web …, 2023 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-981-99-7254-8_23
+  114:
+	Cited_By_Passage: AFENet: Attention-guided feature enhancement network and a benchmark for low-altitude UAV sewage outfall detection
+	Cited_By_Author: Q Huang, J Fan, H Xu, W Han, X Huang, Y Chen
+	Cited_By_Journal: Array, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S2590005624000092
+  115:
+	Cited_By_Passage: DTRE: A model for predicting drug-target interactions of endometrial cancer based on heterogeneous graph
+	Cited_By_Author: M Li, H Liu, F Kong, P Lv
+	Cited_By_Journal: Future Generation Computer Systems, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0167739X24003753
+  116:
+	Cited_By_Passage: ARGENT: Multi-task learning model for predicting autism-related genes and drug targets using heterogeneous graph convolutional network
+	Cited_By_Author: W Yu, X Miao
+	Cited_By_Journal: Future Generation Computer Systems, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0167739X24003522
+  117:
+	Cited_By_Passage: Review of heterogeneous graph embedding methods based on deep learning techniques and comparing their efficiency in node classification
+	Cited_By_Author: A Noori, MA Balafar, A Bouyer, K Salmani
+	Cited_By_Journal: Social Network Analysis and …, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s13278-023-01178-6
+  118:
+	Cited_By_Passage: Datasets and Interfaces for Benchmarking Heterogeneous Graph Neural Networks
+	Cited_By_Author: Y Liu, H Zhang, C Yang, A Li, Y Ji, L Zhang…
+	Cited_By_Journal: Proceedings of the …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3583780.3615117
+  119:
+	Cited_By_Passage: KGIE: Knowledge graph convolutional network for recommender system with interactive embedding
+	Cited_By_Author: M Li, W Ma, Z Chu
+	Cited_By_Journal: Knowledge-Based Systems, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705124004477
+  120:
+	Cited_By_Passage: Compound-protein interaction prediction based on heterogeneous network reveals potential antihepatoma agents
+	Cited_By_Author: YC Wang, TZ Li, JJ Chen
+	Cited_By_Journal: iScience, 2024 - cell.com
+	Passage_Src: https://www.cell.com/iscience/fulltext/S2589-0042(24)01643-2
+  121:
+	Cited_By_Passage: Meta-structure-based graph attention networks
+	Cited_By_Author: J Li, Q Sun, F Zhang, B Yang
+	Cited_By_Journal: Neural Networks, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S089360802300730X
+  122:
+	Cited_By_Passage: Cross-Modality and Equity-Aware Graph Pooling Fusion: A Bike Mobility Prediction Study
+	Cited_By_Author: X Yang, S He, KG Shin…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10557129/
+  123:
+	Cited_By_Passage: GDCNet: Graph Enrichment Learning via Graph Dropping Convolutional Networks
+	Cited_By_Author: B Jiang, Y Chen, B Wang, H Xu…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10198661/
+  124:
+	Cited_By_Passage: Corporate investment prediction using a weighted temporal graph neural network
+	Cited_By_Author: J Li, X Yao
+	Cited_By_Journal: Wiley Interdisciplinary Reviews: Data Mining and …, 2022 - Wiley Online Library
+	Passage_Src: https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.1472
+  125:
+	Cited_By_Passage: MHGNN: Multi-view fusion based Heterogeneous Graph Neural Network
+	Cited_By_Author: C Li, X Zhu, Y Yan, Z Zhao, L Su, Q Zeng
+	Cited_By_Journal: Applied Intelligence, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10489-024-05567-y
+  126:
+	Cited_By_Passage: HeGAE-AC: Heterogeneous graph auto-encoder for attribute completion
+	Cited_By_Author: Y Chen, Y Liu
+	Cited_By_Journal: Knowledge-Based Systems, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705124000716
+  127:
+	Cited_By_Passage: Deep contrastive multi-view clustering with doubly enhanced commonality
+	Cited_By_Author: Z Yang, C Zhu, Z Li
+	Cited_By_Journal: Multimedia Systems, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s00530-024-01400-1
+  128:
+	Cited_By_Passage: A review of multimodal learning for text to images
+	Cited_By_Author: W Chen, Y Yang, Z Tian, Q Chen, J Liu
+	Cited_By_Journal: Multimedia Tools and …, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11042-024-19117-8
+  129:
+	Cited_By_Passage: Heterogeneous Graph Neural Network with Personalized and Adaptive Diversity for News Recommendation
+	Cited_By_Author: G Zhang, D Li, H Gu, T Lu, N Gu
+	Cited_By_Journal: ACM Transactions on the Web, 2024 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3649886
+  130:
+	Cited_By_Passage: Relation-attention semantic-correlative knowledge graph embedding for inductive link prediction
+	Cited_By_Author: L Xiaonan, N Bo, L Guanyu, W Jie
+	Cited_By_Journal: International Journal of Machine …, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s13042-023-01865-y
+  131:
+	Cited_By_Passage: An Unsupervised Anomaly Detection Model for Weighted Heterogeneous Graph
+	Cited_By_Author: M Khazaei, N Ashrafi-Payaman
+	Cited_By_Journal: Journal of AI and Data Mining, 2023 - jad.shahroodut.ac.ir
+	Passage_Src: https://jad.shahroodut.ac.ir/article_2778.html
+  132:
+	Cited_By_Passage: HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning
+	Cited_By_Author: Q Zhu, L Zhang, Q Xu, K Liu, C Long…
+	Cited_By_Journal: arXiv preprint arXiv …, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2407.13158
+  133:
+	Cited_By_Passage: LightCapsGNN: light capsule graph neural network for graph classification
+	Cited_By_Author: Y Yan, J Li, S Xu, X Chen, G Liu, YG Fu
+	Cited_By_Journal: Knowledge and Information …, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10115-024-02170-y
+  134:
+	Cited_By_Passage: Community aware graph embedding learning for item recommendation
+	Cited_By_Author: P Hao, Z Qian, S Wang, C Bai
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-023-01224-5
+  135:
+	Cited_By_Passage: Variational autoencoder densified graph attention for fusing synonymous entities: Model and protocol
+	Cited_By_Author: Q Li, D Wang, S Feng, K Song, Y Zhang…
+	Cited_By_Journal: Knowledge-Based Systems, 2023 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122011546
+  136:
+	Cited_By_Passage: Group homophily based facility location selection in geo-social networks
+	Cited_By_Author: Y Ma, N Cui, ZZ Jiang, Y Yuan, G Wang
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01008-3
+  137:
+	Cited_By_Passage: GP-HTNLoc: A graph prototype head-tail network-based model for multi-label subcellular localization prediction of ncRNAs
+	Cited_By_Author: S Han, L Liu
+	Cited_By_Journal: Computational and Structural Biotechnology Journal, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S200103702400134X
+  138:
+	Cited_By_Passage: Heterogeneous Graph Prototypical Networks for Few-Shot Node Classification
+	Cited_By_Author: Y Hao, M Wang, X Wang, T Zheng, X Wang…
+	Cited_By_Journal: … Conference on Neural …, 2023 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-981-99-8132-8_41
+  139:
+	Cited_By_Passage: A novel automated framework for fine-grained sentiment analysis of application reviews using deep neural networks
+	Cited_By_Author: H Zou, Y Wang
+	Cited_By_Journal: Automated Software Engineering, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10515-024-00444-x
+  140:
+	Cited_By_Passage: Heterogeneous graph neural network with graph-data augmentation and adaptive denoising
+	Cited_By_Author: X Lou, G Liu, J Li
+	Cited_By_Journal: Applied Intelligence, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s10489-024-05363-8
+  141:
+	Cited_By_Passage: Metapath and attribute-based academic collaborator recommendation in heterogeneous academic networks
+	Cited_By_Author: H Li, Y Hu
+	Cited_By_Journal: Scientometrics, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11192-024-05043-x
+  142:
+	Cited_By_Passage: MFHE: multi-view fusion-based heterogeneous information network embedding
+	Cited_By_Author: T Liu, J Yin, Q Qin
+	Cited_By_Journal: Applied Sciences, 2022 - mdpi.com
+	Passage_Src: https://www.mdpi.com/2076-3417/12/16/8218
+  143:
+	Cited_By_Passage: PGB: A PubMed Graph Benchmark for Heterogeneous Network Representation Learning
+	Cited_By_Author: EW Lee, JC Ho
+	Cited_By_Journal: Proceedings of the 32nd ACM International …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3583780.3615128
+  144:
+	Cited_By_Passage: HeteroMILE: a Multi-Level Graph Representation Learning Framework for Heterogeneous Graphs
+	Cited_By_Author: Y Zhang, Y He, S Gurukar, S Parthasarathy
+	Cited_By_Journal: arXiv preprint arXiv …, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2404.00816
+  145:
+	Cited_By_Passage: A Fast and Robust Attention-free Heterogeneous Graph Convolutional Network
+	Cited_By_Author: Y Yan, Z Zhao, Z Yang, Y Yu, C Li
+	Cited_By_Journal: IEEE Transactions on Big …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10463147/
+  146:
+	Cited_By_Passage: The node importance evaluation method based on graph convolution in multilayer heterogeneous networks
+	Cited_By_Author: Z Chen, J Shu, L Liu
+	Cited_By_Journal: Connection Science, 2023 - Taylor & Francis
+	Passage_Src: https://www.tandfonline.com/doi/abs/10.1080/09540091.2023.2229964
+  147:
+	Cited_By_Passage: Spam review detection with Metapath-aggregated graph convolution network
+	Cited_By_Author: P Jayashree, K Laila…
+	Cited_By_Journal: Journal of Intelligent & …, 2023 - content.iospress.com
+	Passage_Src: https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs223136
+  148:
+	Cited_By_Passage: Multi-view contrastive enhanced heterogeneous graph structure learning
+	Cited_By_Author: 邴睿， 袁冠， 孟凡荣， 王森章， 乔少杰， 王志晓
+	Cited_By_Journal: Journal of Software, 2023 - jos.org.cn
+	Passage_Src: https://www.jos.org.cn/josen/article/abstract/6883
+  149:
+	Cited_By_Passage: Exploiting high-order local and global user–item interactions for effective recommendation
+	Cited_By_Author: S Tian, G Guo, Y Li, Y Liu, X Wang
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122002787
+  150:
+	Cited_By_Passage: PreKar: A learned performance predictor for knowledge graph stores
+	Cited_By_Author: Z Qi, H Wang, Z Shen, D Yang
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01033-2
+  151:
+	Cited_By_Passage: Meta-path and hypergraph fused distillation framework for heterogeneous information networks embedding
+	Cited_By_Author: B Yu, C Xie, H Cai, H Duan, P Tang
+	Cited_By_Journal: Information Sciences, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0020025524003669
+  152:
+	Cited_By_Passage: Feature-enhanced embedding learning for heterogeneous collaborative filtering
+	Cited_By_Author: W Yang, J Li, S Tan, Y Tan, X Lu
+	Cited_By_Journal: Neural Computing and Applications, 2022 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s00521-022-07490-0
+  153:
+	Cited_By_Passage: Sylvester Equation Induced Collaborative Representation Learning for Recommendation
+	Cited_By_Author: X Li, Z Zhu, S Zheng, Z Liu, Y Li, X Guo…
+	Cited_By_Journal: … on Knowledge and …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9933729/
+  154:
+	Cited_By_Passage: Simple and Efficient Metapath Aggregated Network for Recommendation
+	Cited_By_Author: S Chen, Z Li
+	Cited_By_Journal: IEEE Access, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10557589/
+  155:
+	Cited_By_Passage: Routing User-Interest Markov Tree for Scalable Personalized Knowledge-Aware Recommendation
+	Cited_By_Author: Y Zheng, P Wei, Z Chen, C Tang…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10138095/
+  156:
+	Cited_By_Passage: Capturing heterogeneous interactions for financial risk prediction of SMEs
+	Cited_By_Author: C Jiang, Z Wang, X Liu
+	Cited_By_Journal: 2022 - aisel.aisnet.org
+	Passage_Src: https://aisel.aisnet.org/pacis2022/56/
+  157:
+	Cited_By_Passage: Optimizing traffic efficiency via a reinforcement learning approach based on time allocation
+	Cited_By_Author: C Xiang, Z Jin, Z Yu, XS Hua, Y Hu, W Qian…
+	Cited_By_Journal: International Journal of …, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s13042-023-01838-1
+  158:
+	Cited_By_Passage: Relation-aware weighted embedding for heterogeneous graphs
+	Cited_By_Author: G Hu, J Pang
+	Cited_By_Journal: Information Technology and Control, 2023 - itc.ktu.lt
+	Passage_Src: https://www.itc.ktu.lt/index.php/ITC/article/view/32390
+  159:
+	Cited_By_Passage: LSPI: Heterogeneous Graph Neural Network Classification Aggregation Algorithm Based on Size Neighbor Path Identification
+	Cited_By_Author: Y Zhaoa, S Wanga, H Duana
+	Cited_By_Journal: arXiv preprint arXiv:2405.18933, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2405.18933
+  160:
+	Cited_By_Passage: Modeling Noncommutative Composition of Relations for Knowledge Graph Embedding
+	Cited_By_Author: C Xiang, C Fu, D Cai, X He
+	Cited_By_Journal: Electronics, 2023 - mdpi.com
+	Passage_Src: https://www.mdpi.com/2079-9292/12/6/1348
+  161:
+	Cited_By_Passage: Effective rule mining of sparse data based on transfer learning
+	Cited_By_Author: Y Sun, J Guo, B Li, NAH Haldar
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01042-1
+  162:
+	Cited_By_Passage: Enhancing Heterogeneous Graph Contrastive Learning with Strongly Correlated Subgraphs
+	Cited_By_Author: Y Liu, B Lang
+	Cited_By_Journal: International Conference on Neural Information …, 2023 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-981-99-8076-5_7
+  163:
+	Cited_By_Passage: A structure similarity based adaptive sampling method for time-dependent graph embedding
+	Cited_By_Author: A Wu, Y Yuan, Y Ma, G Wang
+	Cited_By_Journal: Knowledge-Based Systems, 2022 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705122000259
+  164:
+	Cited_By_Passage: Metapath-guided dual semantic-aware filtering for HIN-based recommendation
+	Cited_By_Author: S Yan, H Wang, Y Li, C Wu, L Han, C Shi…
+	Cited_By_Journal: The Journal of …, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11227-023-05113-6
+  165:
+	Cited_By_Passage: An Adaptive Semantic Mining Framework for Heterogeneous Information Network Embedding
+	Cited_By_Author: H Shao, R Zhu, H Liu, L Wang
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10083089/
+  166:
+	Cited_By_Passage: SR-CoMbEr: Heterogeneous Network Embedding Using Community Multi-view Enhanced Graph Convolutional Network for Automating Systematic Reviews
+	Cited_By_Author: EW Lee, JC Ho
+	Cited_By_Journal: European Conference on Information Retrieval, 2023 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-3-031-28244-7_35
+  167:
+	Cited_By_Passage: Hyperbolic distance guided multi-positive graph contrastive learning
+	Cited_By_Author: Y Liu, B Lang
+	Cited_By_Journal: Proceedings of the 2023 15th International Conference …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3587716.3587746
+  168:
+	Cited_By_Passage: An End-to-End Dense Connected Heterogeneous Graph Convolutional Neural Network
+	Cited_By_Author: R Yan, J Cai
+	Cited_By_Journal: International Conference on Neural Information …, 2023 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-981-99-8079-6_36
+  169:
+	Cited_By_Passage: Meta-path free semi-supervised learning for heterogeneous networks
+	Cited_By_Author: S Park, BJ Bae, J Yeo, S Hwang
+	Cited_By_Journal: arXiv preprint arXiv:2010.08924, 2020 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2010.08924
+  170:
+	Cited_By_Passage: Mental Disorders Prediction with Heterogeneous Graph Convolutional Network
+	Cited_By_Author: H Lin, J Pan, Y Dong
+	Cited_By_Journal: 2022 IEEE International Conference on …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9945193/
+  171:
+	Cited_By_Passage: A General Heterogeneous Hypergraph Neural Network for Node Classification
+	Cited_By_Author: B Hu, W Huang, T Zheng, M Song…
+	Cited_By_Journal: 2023 International Joint …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10191131/
+  172:
+	Cited_By_Passage: Dynamic path learning in decision trees using contextual bandits
+	Cited_By_Author: W Ju, D Yuan, W Bao, L Ge, BB Zhou
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01043-0
+  173:
+	Cited_By_Passage: Example query on ontology-labels knowledge graph based on filter-refine strategy
+	Cited_By_Author: L Ding, S Li, M Li, Z Chen, H Zhang, H Luo, GY Yuan
+	Cited_By_Journal: World Wide Web, 2023 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s11280-022-01020-7
+  174:
+	Cited_By_Passage: FDRS: Federated Diversified Recommender System Based on Heterogeneous Graph Convolutional Network
+	Cited_By_Author: N Li, H Liu, S Meng, Q Li
+	Cited_By_Journal: … Data Science & Systems, Smart City …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10466908/
+  175:
+	Cited_By_Passage: New methods for DDoS attacks detection
+	Cited_By_Author: L Zhou
+	Cited_By_Journal: 2022 - dro.deakin.edu.au
+	Passage_Src: https://dro.deakin.edu.au/articles/thesis/New_methods_for_DDoS_attacks_detection/24769428/1/files/43530225.pdf
+  176:
+	Cited_By_Passage: Forgetting Prevention for Cross-regional Fraud Detection with Heterogeneous Trade Graph
+	Cited_By_Author: Y Li, Y Yang, X Yang, Q Gao, F Zhou
+	Cited_By_Journal: arXiv preprint arXiv:2204.10085, 2022 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2204.10085
+  177:
+	Cited_By_Passage: Robustness, Heterogeneity and Structure Capturing for Graph Representation Learning and its Application
+	Cited_By_Author: Z Sun
+	Cited_By_Journal: 2024 - etheses.dur.ac.uk
+	Passage_Src: http://etheses.dur.ac.uk/15307/
+  178:
+	Cited_By_Passage: Smart agriculture: Advancements on plant disease detection with big data and deep learning
+	Cited_By_Author: Y Fang
+	Cited_By_Journal: 2022 - dro.deakin.edu.au
+	Passage_Src: https://dro.deakin.edu.au/articles/thesis/Smart_agriculture_Advancements_on_plant_disease_detection_with_big_data_and_deep_learning/24769245/1/files/43531734.pdf
+  179:
+	Cited_By_Passage: A comprehensive solution to predict short-term and long-term user intention with environmental context
+	Cited_By_Author: H Zhang
+	Cited_By_Journal: 2023 - repository.library.carleton.ca
+	Passage_Src: https://repository.library.carleton.ca/concern/etds/gf06g370x
+  180:
+	Cited_By_Passage: Adaptive Community Aware Graph Network for Item Recommendation
+	Cited_By_Author: P Hao, Z Qian, S Wang, C Bai
+	Cited_By_Journal: 2023 - researchsquare.com
+	Passage_Src: https://www.researchsquare.com/article/rs-3063029/latest
+  181:
+	Cited_By_Passage: Node Importance Evaluation Method for Heterogeneous Networks Based on Node Embedding
+	Cited_By_Author: H Cui, L Liu, J Shu
+	Cited_By_Journal: International Conference on Communication and …, 2022 - Springer
+	Passage_Src: https://link.springer.com/chapter/10.1007/978-3-031-59619-3_4
+  182:
+	Cited_By_Passage: A Method for Measuring Node Similarity in Heterogeneous Information Networks
+	Cited_By_Author: L Zhan, H Chen, L Zhou, Q Xiao
+	Cited_By_Journal: Fuzzy Systems and Data …, 2023 - ebooks.iospress.nl
+	Passage_Src: https://ebooks.iospress.nl/volumearticle/65852
+  183:
+	Cited_By_Passage: Graph Representation Learning for Heterogeneous Multimodal Biomedical Data
+	Cited_By_Author: NC Tran
+	Cited_By_Journal: 2022 - search.proquest.com
+	Passage_Src: https://search.proquest.com/openview/89ac72f63ef22d98b81ff4b29ac5ef57/1?pq-origsite=gscholar&cbl=18750&diss=y
+  184:
+	Cited_By_Passage: Graph representation learning
+	Cited_By_Author: X Zhang
+	Cited_By_Journal: 2022 - dr.ntu.edu.sg
+	Passage_Src: https://dr.ntu.edu.sg/handle/10356/155039
+  185:
+	Cited_By_Passage: A Unified Framework for Cross-Domain and Cross-System Recommendations
+	Cited_By_Author: L Li, G Liu
+	Cited_By_Journal: CDR, 2021 - researchgate.net
+	Passage_Src: https://www.researchgate.net/profile/Feng-Zhu-59/publication/367049033_A_Unified_Framework_for_Cross-Domain_and_Cross-System_Recommendations/links/65f81da4c05fd268802057f6/A-Unified-Framework-for-Cross-Domain-and-Cross-System-Recommendations.pdf
+  186:
+	Cited_By_Passage: Interaction Enhanced Heterogeneous Graph Structure Learning
+	Cited_By_Author: R Bing, G Yuan, Z Cai, Y Zhang, Y Zhou…
+	Cited_By_Journal: Available at SSRN … - papers.ssrn.com
+	Passage_Src: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4472482
+  187:
+	Cited_By_Passage: An Unsupervised Anomaly Detection Model for Weighted Heterogeneous Graph
+	Cited_By_Author: N Ashrafi-Payaman, M Khazaei
+	Cited_By_Journal: researchgate.net
+	Passage_Src: https://www.researchgate.net/profile/Maryam_Khazaei3/publication/371540854_An_Unsupervised_Anomaly_Detection_Model_for_Weighted_Heterogeneous_Graph/links/64b3f66fc41fb852dd7b629c/An-Unsupervised-Anomaly-Detection-Model-for-Weighted-Heterogeneous-Graph.pdf
+  188:
+	Cited_By_Passage: Robust Self-supervised Learning in Heterogeneous Graph Based on Feature-Topology Balancing
+	Cited_By_Author: J Ahn, BG Kang, H Han, S Yoon
+	Cited_By_Journal: openreview.net
+	Passage_Src: https://openreview.net/forum?id=1JiIKjcwrr
+  189:
+	Cited_By_Passage: 基于元路径卷积的异构图神经网络算法
+	Cited_By_Author: 秦志龙， 邓琨， 刘星妍
+	Cited_By_Journal: 电信科学, 2024 - infocomm-journal.com
+	Passage_Src: https://www.infocomm-journal.com/dxkx/CN/10.11959/j.issn.1000-0801.2024070
+  190:
+	Cited_By_Passage: Condition Monitoring of Brake Uneven Wear in High-Speed Train Based on Multi-Source Feature Fusion Under Imbalanced Data
+	Cited_By_Author: M Zhang, W Xu, J Li
+	Cited_By_Journal: papers.ssrn.com
+	Passage_Src: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4705667
+  191:
+	Cited_By_Passage: Vulnerability Exploitability Prediction and Risk Evaluation
+	Cited_By_Author: J Yin
+	Cited_By_Journal: 2021 - opal.latrobe.edu.au
+	Passage_Src: https://opal.latrobe.edu.au/articles/thesis/Vulnerability_Exploitability_Prediction_and_Risk_Evaluation/19736353
+  192:
+	Cited_By_Passage: 多视图对比增强的异质图结构学习方法
+	Cited_By_Author: 邴睿， 袁冠， 孟凡荣， 王森章， 乔少杰， 王志晓
+	Cited_By_Journal: 软件学报, 2023 - jos.org.cn
+	Passage_Src: https://www.jos.org.cn/jos/article/pdf/6883
+  193:
+	Cited_By_Passage: CS 699 Project Final Report DeepSkill: Win Prediction and Matchmaking Framework for Elite Individuals and Teams
+	Cited_By_Author: J Enouen, AJ Bisberg
+	Cited_By_Journal: enouenj.github.io
+	Passage_Src: https://enouenj.github.io/papers/csci699.pdf
+  194:
+	Cited_By_Passage: 多重注意力指导下的异构图嵌入方法
+	Cited_By_Author: 孟祥福， 温晶， 李子函， 纪鸿樟
+	Cited_By_Journal: 智能系统学报, 2023 - html.rhhz.net
+	Passage_Src: http://html.rhhz.net/tis/html/202204006.htm
+  195:
+	Cited_By_Passage: A Appendix
+	Cited_By_Author: MAG PP, PAP PFP, PACMP AP, PSPD AP A, A APCPA…
+	Cited_By_Journal: proceedings.neurips.cc
+	Passage_Src: https://proceedings.neurips.cc/paper_files/paper/2022/file/6c7297baffe5c85ea1d9e1ccb1222ab8-Supplemental-Conference.zip
+  196:
+	Cited_By_Passage: 异构图卷积网络研究进展.
+	Cited_By_Author: 贾香恩， 董一鸿， 朱锋， 钱江波
+	Cited_By_Journal: Journal of Computer …, 2021 - search.ebscohost.com
+	Passage_Src: https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10028331&AN=150201059&h=%2F0nXFE9kJJkD3FSn3hValrHwG%2FalaoULJlbbeDJYmbPqh%2FQ3v%2FjXS%2B8hesx62sHrO2m10KHIFRSGzKfCir9zoQ%3D%3D&crl=c
+Self-supervised heterogeneous graph pre-training based on structural clustering:31
+  1:
+	Cited_By_Passage: Hard sample aware network for contrastive deep graph clustering
+	Cited_By_Author: Y Liu, X Yang, S Zhou, X Liu, Z Wang, K Liang…
+	Cited_By_Journal: Proceedings of the …, 2023 - ojs.aaai.org
+	Passage_Src: https://ojs.aaai.org/index.php/AAAI/article/view/26071
+  2:
+	Cited_By_Passage: Simple contrastive graph clustering
+	Cited_By_Author: Y Liu, X Yang, S Zhou, X Liu, S Wang…
+	Cited_By_Journal: … on Neural Networks …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10163985/
+  3:
+	Cited_By_Passage: Walklm: A uniform language model fine-tuning framework for attributed graph embedding
+	Cited_By_Author: Y Tan, Z Zhou, H Lv, W Liu…
+	Cited_By_Journal: Advances in Neural …, 2024 - proceedings.neurips.cc
+	Passage_Src: https://proceedings.neurips.cc/paper_files/paper/2023/hash/2ac879d1865475a7abc8dfc7a9c15c27-Abstract-Conference.html
+  4:
+	Cited_By_Passage: A survey of knowledge graph reasoning on graph types: Static, dynamic, and multi-modal
+	Cited_By_Author: K Liang, L Meng, M Liu, Y Liu, W Tu…
+	Cited_By_Journal: … on Pattern Analysis …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10577554/
+  5:
+	Cited_By_Passage: Attribute-missing graph clustering network
+	Cited_By_Author: W Tu, R Guan, S Zhou, C Ma, X Peng, Z Cai…
+	Cited_By_Journal: Proceedings of the …, 2024 - ojs.aaai.org
+	Passage_Src: https://ojs.aaai.org/index.php/AAAI/article/view/29464
+  6:
+	Cited_By_Passage: Hgprompt: Bridging homogeneous and heterogeneous graphs for few-shot prompt learning
+	Cited_By_Author: X Yu, Y Fang, Z Liu, X Zhang
+	Cited_By_Journal: Proceedings of the AAAI Conference on …, 2024 - ojs.aaai.org
+	Passage_Src: https://ojs.aaai.org/index.php/AAAI/article/view/29596
+  7:
+	Cited_By_Passage: Hierarchically contrastive hard sample mining for graph self-supervised pretraining
+	Cited_By_Author: W Tu, S Zhou, X Liu, C Ge, Z Cai…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10223441/
+  8:
+	Cited_By_Passage: Contrastive learning for signed bipartite graphs
+	Cited_By_Author: Z Zhang, J Liu, K Zhao, S Yang, X Zheng…
+	Cited_By_Journal: Proceedings of the 46th …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3539618.3591655
+  9:
+	Cited_By_Passage: A non-parametric graph clustering framework for multi-view data
+	Cited_By_Author: S Yu, S Wang, Z Dong, W Tu, S Liu, Z Lv, P Li…
+	Cited_By_Journal: Proceedings of the …, 2024 - ojs.aaai.org
+	Passage_Src: https://ojs.aaai.org/index.php/AAAI/article/view/29594
+  10:
+	Cited_By_Passage: Rare: Robust masked graph autoencoder
+	Cited_By_Author: W Tu, Q Liao, S Zhou, X Peng, C Ma…
+	Cited_By_Journal: … on Knowledge and …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10328443/
+  11:
+	Cited_By_Passage: Higpt: Heterogeneous graph language model
+	Cited_By_Author: J Tang, Y Yang, W Wei, L Shi, L Xia, D Yin…
+	Cited_By_Journal: arXiv preprint arXiv …, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2402.16024
+  12:
+	Cited_By_Passage: Semantic-aware node synthesis for imbalanced heterogeneous information networks
+	Cited_By_Author: X Gao, W Zhang, T Chen, J Yu, HQV Nguyen…
+	Cited_By_Journal: Proceedings of the 32nd …, 2023 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3583780.3615055
+  13:
+	Cited_By_Passage: Hetgpt: Harnessing the power of prompt tuning in pre-trained heterogeneous graph neural networks
+	Cited_By_Author: Y Ma, N Yan, J Li, M Mortazavi…
+	Cited_By_Journal: Proceedings of the ACM on …, 2024 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3589334.3645685
+  14:
+	Cited_By_Passage: Bgae: Auto-encoding multi-view bipartite graph clustering
+	Cited_By_Author: L Li, Y Pan, J Liu, Y Liu, X Liu, K Li…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10423800/
+  15:
+	Cited_By_Passage: Pseudo contrastive learning for graph-based semi-supervised learning
+	Cited_By_Author: W Lu, Z Guan, W Zhao, Y Yang, Y Lv, L Xing…
+	Cited_By_Journal: arXiv preprint arXiv …, 2023 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2302.09532
+  16:
+	Cited_By_Passage: Node classification oriented Adaptive Multichannel Heterogeneous Graph Neural Network
+	Cited_By_Author: Y Li, C Jian, G Zang, C Song, X Yuan
+	Cited_By_Journal: Knowledge-Based Systems, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705124002533
+  17:
+	Cited_By_Passage: Revisiting initializing then refining: an incomplete and missing graph imputation network
+	Cited_By_Author: W Tu, B Xiao, X Liu, S Zhou, Z Cai…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10398247/
+  18:
+	Cited_By_Passage: Hybrid-attention mechanism based heterogeneous graph representation learning
+	Cited_By_Author: X Wang, W Deng, Z Meng, D Chen
+	Cited_By_Journal: Expert Systems with Applications, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0957417424008297
+  19:
+	Cited_By_Passage: Challenges in Pre-Training Graph Neural Networks for Context-Based Fake News Detection: An Evaluation of Current Strategies and Resource Limitations
+	Cited_By_Author: G Donabauer, U Kruschwitz
+	Cited_By_Journal: arXiv preprint arXiv:2402.18179, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2402.18179
+  20:
+	Cited_By_Passage: A Survey on Self-Supervised Pre-Training of Graph Foundation Models: A Knowledge-Based Perspective
+	Cited_By_Author: Z Zhao, Y Li, Y Zou, R Li, R Zhang
+	Cited_By_Journal: arXiv preprint arXiv:2403.16137, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2403.16137
+  21:
+	Cited_By_Passage: Deep clustering for data cleaning and integration
+	Cited_By_Author: HT Rauf, A Freitas, NW Paton
+	Cited_By_Journal: arXiv preprint arXiv:2305.13494, 2023 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2305.13494
+  22:
+	Cited_By_Passage: SGCL: Semi-supervised Graph Contrastive Learning with confidence propagation algorithm for node classification
+	Cited_By_Author: W Jiang, Y Bai
+	Cited_By_Journal: Knowledge-Based Systems, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0950705124009055
+  23:
+	Cited_By_Passage: Robust graph neural networks with Dirichlet regularization and residual connection
+	Cited_By_Author: K Yao, Z Du, M Li, F Cao, J Liang
+	Cited_By_Journal: International Journal of Machine …, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s13042-024-02117-3
+  24:
+	Cited_By_Passage: HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning
+	Cited_By_Author: Q Zhu, L Zhang, Q Xu, K Liu, C Long…
+	Cited_By_Journal: arXiv preprint arXiv …, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2407.13158
+  25:
+	Cited_By_Passage: Self-Supervised Pretraining for Heterogeneous Hypergraph Neural Networks
+	Cited_By_Author: A Abubaker, T Maehara, M Nimishakavi…
+	Cited_By_Journal: arXiv preprint arXiv …, 2023 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2311.11368
+  26:
+	Cited_By_Passage: TableDC: Deep Clustering for Tabular Data
+	Cited_By_Author: HT Rauf, A Freitas, NW Paton
+	Cited_By_Journal: arXiv preprint arXiv:2405.17723, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2405.17723
+  27:
+	Cited_By_Passage: HGT: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding
+	Cited_By_Author: R Jin, Y Li, G Qi, N Hu, YF Li, J Chen, J Wang…
+	Cited_By_Journal: arXiv preprint arXiv …, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2403.19723
+  28:
+	Cited_By_Passage: Meta-path and hypergraph fused distillation framework for heterogeneous information networks embedding
+	Cited_By_Author: B Yu, C Xie, H Cai, H Duan, P Tang
+	Cited_By_Journal: Information Sciences, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0020025524003669
+  29:
+	Cited_By_Passage: Modeling Noncommutative Composition of Relations for Knowledge Graph Embedding
+	Cited_By_Author: C Xiang, C Fu, D Cai, X He
+	Cited_By_Journal: Electronics, 2023 - mdpi.com
+	Passage_Src: https://www.mdpi.com/2079-9292/12/6/1348
+  30:
+	Cited_By_Passage: Heterogeneous Graph Transformer with Poly-Tokenization
+	Cited_By_Author: Z Lu, Y Fang, C Yang, C Shi
+	Cited_By_Journal: smufang.github.io
+	Passage_Src: https://smufang.github.io/paper/IJCAI24_PHGT.pdf
+  31:
+	Cited_By_Passage: Robust Self-supervised Learning in Heterogeneous Graph Based on Feature-Topology Balancing
+	Cited_By_Author: J Ahn, BG Kang, H Han, S Yoon
+	Cited_By_Journal: openreview.net
+	Passage_Src: https://openreview.net/forum?id=1JiIKjcwrr
+Graph substructure assembling network with soft sequence and context attention:13
+  1:
+	Cited_By_Passage: A comprehensive survey on multi-view clustering
+	Cited_By_Author: U Fang, M Li, J Li, L Gao, T Jia…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10108535/
+  2:
+	Cited_By_Passage: Rare: Robust masked graph autoencoder
+	Cited_By_Author: W Tu, Q Liao, S Zhou, X Peng, C Ma…
+	Cited_By_Journal: … on Knowledge and …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10328443/
+  3:
+	Cited_By_Passage: Motif-driven contrastive learning of graph representations
+	Cited_By_Author: S Zhang, Z Hu, A Subramonian…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10429945/
+  4:
+	Cited_By_Passage: Towards explaining graph neural networks via preserving prediction ranking and structural dependency
+	Cited_By_Author: Y Zhang, WK Cheung, Q Liu, G Wang, L Yang…
+	Cited_By_Journal: Information Processing & …, 2024 - Elsevier
+	Passage_Src: https://www.sciencedirect.com/science/article/pii/S0306457323003084
+  5:
+	Cited_By_Passage: Revisiting initializing then refining: an incomplete and missing graph imputation network
+	Cited_By_Author: W Tu, B Xiao, X Liu, S Zhou, Z Cai…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10398247/
+  6:
+	Cited_By_Passage: Motif graph neural network
+	Cited_By_Author: X Chen, R Cai, Y Fang, M Wu, Z Li…
+	Cited_By_Journal: IEEE Transactions on …, 2023 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10154572/
+  7:
+	Cited_By_Passage: On the substructure countability of graph neural networks
+	Cited_By_Author: W Xia, Y Li, S Li
+	Cited_By_Journal: IEEE Transactions on Knowledge and Data …, 2022 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/9961144/
+  8:
+	Cited_By_Passage: SkipNode: On alleviating performance degradation for deep graph convolutional networks
+	Cited_By_Author: W Lu, Y Zhan, B Lin, Z Guan, L Liu, B Yu…
+	Cited_By_Journal: … on Knowledge and …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10497904/
+  9:
+	Cited_By_Passage: Learning Graph Attentions via Replicator Dynamics
+	Cited_By_Author: B Jiang, Z Zhang, S Ge, B Wang…
+	Cited_By_Journal: IEEE Transactions on …, 2024 - ieeexplore.ieee.org
+	Passage_Src: https://ieeexplore.ieee.org/abstract/document/10508103/
+  10:
+	Cited_By_Passage: AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation
+	Cited_By_Author: W Lu, Z Guan, W Zhao, Y Yang
+	Cited_By_Journal: arXiv preprint arXiv:2405.14307, 2024 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2405.14307
+  11:
+	Cited_By_Passage: Deep contrastive multi-view clustering with doubly enhanced commonality
+	Cited_By_Author: Z Yang, C Zhu, Z Li
+	Cited_By_Journal: Multimedia Systems, 2024 - Springer
+	Passage_Src: https://link.springer.com/article/10.1007/s00530-024-01400-1
+  12:
+	Cited_By_Passage: Modeling Noncommutative Composition of Relations for Knowledge Graph Embedding
+	Cited_By_Author: C Xiang, C Fu, D Cai, X He
+	Cited_By_Journal: Electronics, 2023 - mdpi.com
+	Passage_Src: https://www.mdpi.com/2079-9292/12/6/1348
+  13:
+	Cited_By_Passage: Smart agriculture: Advancements on plant disease detection with big data and deep learning
+	Cited_By_Author: Y Fang
+	Cited_By_Journal: 2022 - dro.deakin.edu.au
+	Passage_Src: https://dro.deakin.edu.au/articles/thesis/Smart_agriculture_Advancements_on_plant_disease_detection_with_big_data_and_deep_learning/24769245/1/files/43531734.pdf
+Skipnode: On alleviating over-smoothing for deep graph convolutional networks:13
+  1:
+	Cited_By_Passage: NAGphormer: A tokenized graph transformer for node classification in large graphs
+	Cited_By_Author: J Chen, K Gao, G Li, K He
+	Cited_By_Journal: arXiv preprint arXiv:2206.04910, 2022 - arxiv.org
+	Passage_Src: https://arxiv.org/abs/2206.04910
+  2:
+	Cited_By_Passage: Nodemixup: Tackling under-reaching for graph neural networks
+	Cited_By_Author: W Lu, Z Guan, W Zhao, Y Yang, L Jin
+	Cited_By_Journal: Proceedings of the AAAI …, 2024 - ojs.aaai.org
+	Passage_Src: https://ojs.aaai.org/index.php/AAAI/article/view/29328
+  3:
+	Cited_By_Passage: Graph augmentation learning
+	Cited_By_Author: S Yu, H Huang, MN Dao, F Xia
+	Cited_By_Journal: Companion Proceedings of the Web …, 2022 - dl.acm.org
+	Passage_Src: https://dl.acm.org/doi/abs/10.1145/3487553.3524718
+  4:
+Interpretable and Efficient Heterogeneous Graph Convolutional Network:196
+Interpretable and Efficient Heterogeneous Graph Convolutional Network:196
+Interpretable and Efficient Heterogeneous Graph Convolutional Network:196
