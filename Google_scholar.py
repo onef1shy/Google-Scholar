@@ -5,6 +5,7 @@ import requests_html
 import random
 import time
 import json
+import numpy
 from io import TextIOWrapper
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -122,7 +123,7 @@ class Gather:
         WebDriverWait(self.driver, 15, 0.5).until(EC.element_to_be_clickable(
             (By.CSS_SELECTOR, "#recaptcha-anchor"))).click()
         # 随机2~3秒避免加载不出来
-        time.sleep(random.uniform(2, 3))
+        time.sleep(random.uniform(3, 4))
         print(1)
         try:
             # 回到默认页面
