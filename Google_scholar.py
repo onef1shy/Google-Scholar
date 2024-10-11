@@ -4,7 +4,6 @@ import time  # 用于时间相关操作
 import random  # 用于生成随机数
 import requests_html  # 用于处理HTML请求
 import json  # 用于JSON数据处理
-import numpy  # 用于数值计算
 from io import TextIOWrapper  # 用于文件I/O操作
 
 # Selenium相关导入，用于web自动化
