@@ -1,18 +1,21 @@
-import math
-import time
-import random
-import requests_html
-import random
-import time
-import json
-import numpy
-from io import TextIOWrapper
+# 导入必要的库
+import math  # 用于数学计算
+import time  # 用于时间相关操作
+import random  # 用于生成随机数
+import requests_html  # 用于处理HTML请求
+import json  # 用于JSON数据处理
+import numpy  # 用于数值计算
+from io import TextIOWrapper  # 用于文件I/O操作
+
+# Selenium相关导入，用于web自动化
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
+
+# 腾讯云SDK相关导入，用于语音识别服务
 from tencentcloud.common import credential
 from tencentcloud.common.profile.client_profile import ClientProfile
 from tencentcloud.common.profile.http_profile import HttpProfile
