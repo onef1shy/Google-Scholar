@@ -14,7 +14,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.chrome.service import Service
+
 # 腾讯云SDK相关导入，用于语音识别服务
 from tencentcloud.common import credential
 from tencentcloud.common.profile.client_profile import ClientProfile
