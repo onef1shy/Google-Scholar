@@ -24,7 +24,7 @@ Google-Scholar 是一个强大的学术文献引用信息提取工具，专为�
 
 1. 克隆仓库：
    ```
-   git clone https://github.com/your-username/Google-Scholar.git
+   git clone https://github.com/lb1yatl/Google-Scholar.git
    ```
 
 2. 安装依赖：
