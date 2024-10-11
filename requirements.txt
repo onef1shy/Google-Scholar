@@ -1,0 +1,4 @@
+selenium==4.0.0
+requests-html==0.10.0
+tencentcloud-sdk-python==3.0.0
+numpy==1.21.0
