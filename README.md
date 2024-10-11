@@ -66,8 +66,8 @@ Google-Scholar 是一个强大的学术文献引用信息提取工具，专为�
 
 如有任何问题或建议，欢迎通过以下方式联系我们：
 
-- 项目维护者：[Your Name]
-- 电子邮件：[your.email@example.com]
-- 项目 Issues：[https://github.com/your-username/Google-Scholar/issues](https://github.com/your-username/Google-Scholar/issues)
+- 项目维护者：[b1yat]
+- 电子邮件：[b1yat@icloud.com]
+- 项目 Issues：[https://github.com/lb1yatl/Google-Scholar/issues](https://github.com/lb1yatl/Google-Scholar/issues)
 
 感谢您对 Google-Scholar 项目的关注和支持！
