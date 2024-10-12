@@ -36,8 +36,9 @@ class Gather:
         self.name = ""
         self.file = None
         self.sum = 0
-        self.SecretId = "AKIDDkM0tZ2QjpiWH7fo1gXDhz63xSQVQKqF"
-        self.SecretKey = "qfTp4a7zqUokgKsATntlYSOGzyzXw88t"
+        # 腾讯云密钥
+        self.SecretId = ""
+        self.SecretKey = ""
 
     def get_result(self, id_d):
         try:
