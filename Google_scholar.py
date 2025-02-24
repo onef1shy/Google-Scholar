@@ -8,11 +8,13 @@ from io import TextIOWrapper
 
 # Selenium相关导入
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
+from webdriver_manager.chrome import ChromeDriverManager
 
 # 腾讯云SDK相关导入
 from tencentcloud.common import credential
@@ -27,7 +29,12 @@ class Gather:
         # 初始化Chrome浏览器选项
         option = Options()
         # option.add_argument('--headless')  # 可选：启用无头模式
-        self.driver = webdriver.Chrome(options=option)  # 创建Chrome浏览器实例
+
+        # 使用webdriver_manager自动管理ChromeDriver
+        service = Service(ChromeDriverManager().install())
+        self.driver = webdriver.Chrome(
+            service=service, options=option)  # 创建Chrome浏览器实例
+
         self.Passage_name = []  # 存储文章名称
         self.Cited_by = []  # 存储被引用次数
         src = input("请输入您的文章页面网址：")  # 获取用户输入的网址
@@ -49,7 +56,7 @@ class Gather:
             # 配置HTTP选项
             httpProfile = HttpProfile()
             httpProfile.endpoint = "asr.tencentcloudapi.com"
-            
+
             # 创建客户端配置
             clientProfile = ClientProfile()
             clientProfile.httpProfile = httpProfile
@@ -108,7 +115,7 @@ class Gather:
             # 发送请求并获取响应
             resp = client.CreateRecTask(req)
             ID = json.loads(resp.to_json_string())["Data"]["TaskId"]
-            
+
             # 等待识别结果
             count = 0
             while True:
@@ -262,7 +269,8 @@ class Gather:
                 except NoSuchElementException:
                     print("google has blocked this browser, reopening")
                     self.driver.close()
-                    self.driver = webdriver.Chrome()
+                    self.driver = webdriver.Chrome(service=Service(
+                        ChromeDriverManager().install()), options=Options())
                     return self.get_html(url)
 
             print("... it's CAPTCHA time!\a ...")

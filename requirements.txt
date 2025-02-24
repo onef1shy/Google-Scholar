@@ -1,3 +1,4 @@
-selenium==4.0.0
-requests-html==0.10.0
-tencentcloud-sdk-python==3.0.0
+selenium>=4.15.2
+requests-html>=0.10.0
+tencentcloud-sdk-python>=3.0.1
+webdriver-manager>=4.0.1
