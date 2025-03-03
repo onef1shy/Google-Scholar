@@ -43,7 +43,7 @@ Google-Scholar/
 
 1. 克隆项目并安装依赖：
 ```bash
-git clone https://github.com/Iamb1yat/Google-Scholar.git
+git clone https://github.com/onef1shy/Google-Scholar.git
 cd Google-Scholar
 pip install -r requirements.txt
 ```
@@ -124,7 +124,7 @@ https://scholar.google.com/citations?user=XXXXXXXXXXXXXXXX
 
 ## License 📄
 
-MIT License © [b1yat](https://github.com/Iamb1yat)
+MIT License © [onefishy](https://github.com/onef1shy)
 
 ## 支持
 
